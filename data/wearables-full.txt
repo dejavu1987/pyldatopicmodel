@@ -1,0 +1,582 @@
+Das Shirt enhält Textilelektroden, diese messen beim Laufen Gesundheitsdaten und übertragen diese per Bluetooth an das Smartphone.
+Ein Armband für die Frau, dass die UV-Strahlung ständig misst und per Bluetooth ans Smartphone die Daten leitet.
+Ein Smartes Armband welches als Fitnessarmband dienen soll und zusätzlich eingehende SMS und Emails anzeigen soll.
+Eine Datenbrille, mit der 2-D und 3-D Videomaterial abgespielt werden können, zusätzlich soll die Nutzung von Android-Apps möglich sein. Die Steuerung erfolgt über ein mit der Brille verbundenes Kabel.
+Ist eine Smartwatch, die über eingehende Anrufe, Emails etc. informiert. Zusätzlich ist die Smartwatch mit Iphones sowie Android Phones kompatibel.
+Ein Smartes Armband welches als Fitnessarmband dient und den Kalorienverbrauch etc. sowie das Schalfverhalten messen soll.
+Ein Schmuckstück welches mit dem Smartphone verbunden ist und über eingehende Nachrichten informiert. Zusätzlich kann über Bluetooth die Farbe des LED im Juwel verändert werden.
+Ein Smartes Armband welches als Fitnessarmband dient und Schritte, Stufen, Kalorienverbrauch etc misst. Zusätzlich soll die Körperhaltung analysiert und verbessert werden.
+Ein Smartes Armband welches als Fitnessarmband dient und Schritte, Stufen, Kalorienverbrauch etc misst. Zusätzlich ist es mit dem Smartphone verbunden und informiert über eingehende Nachrtichten etc. Eine weitere Funktion ist, die Analysedes Schlafs + Weckfunktion und die Verbindung zwischen Apps und Armband.
+Ein Smartes Armband welches als Fitnessarmband dient und Schritte, Stufen, Kalorienverbrauch etc misst. Zusätzlich ist es mit dem Smartphone verbunden und informiert über eingehende Nachrtichten etc. Eine weitere Funktion ist, die Herzfrequenzmessung sowie die Musiksteuerung und die Verbindung zwischen Apps und Armband.
+Eine Datenbrille, die es ermöglicht mithilfe der Brille durch die Augen anderer Nutzer zu sehen. So zum Beispiel ein Training der Mitarbeiter weltweit möglich.
+Ist eine Smartwatch, die über eingehende Anrufe, Emails etc. informiert. Außerdem werden Schritte und verbrauchte Kalorien gezählt, die Uhr kann zusätzlich die Fernbedienungsfunktion von Smartphone oder Tablet übernehmen.
+Ist eine Augenmaske, die anhand von Lichtimpulsen die Umstellung zwischen verschiedenen Zeitzonen erleichtern soll.
+Ist eine Smartwatch, die über eingehende Anrufe, Emails etc. informiert. Zudem kann die Uhr verschiedene Daten wie Wetter, Routenplaner oder bevorstehende Termine anzeigen.  Über Bluetooth kann die Uhr mit dem Smartphone verbunden werden.
+Eine Smartwatch, die Nachrichten wie SMS, Mails etc. darstellen kann. Zusätzlich sind in die Uhr integriert: ein Pulsmesser, Kalorienzähler, Schrittzähler, Schlafmessung und eine 2 MP starke Kamera.
+Ein smartes Armband welches als Fitnesshilfsmittel genutzt werden kann. Zusätzlich informiert es noch über eingende Anrufe und Nachrichten auf dem Smartphone und bietet noch eine Schlafmessung.
+Ist eine Smartwatch, die auch über Sprachsteuerung zu bedienen ist. Gleichzeitig dient die Uhr als Fitnesstracker.
+Ein Herzfrequenzmesser für den Sportbereich, der noch zusätzliche Information wie Kalorienverbrauch, gelaufene Strecke, Zeit, Tempo etc. angibt.
+Ist ein smartes Armband, welches Auskunft über verbrauchte Kalorien, zurückgelegte Strecken etc. in täglicher, wöchentlicher oder monatlicher Ansicht liefert.
+Mit dem smarten Ring lassen sich via Fingergeste, fast alle Geräte steuern. Die Daten werden ans Smartphone gesendet, welches die Daten weitergibt um zum Beispiel, die Beleuchtung zu steuern, zum nächsten Lied zu springen oder auch kurze Texte zu verfassen.
+Bei Slimo handelt es sich um eine smarte Lösung, die das kabellose Aufladen eines iPhones ermöglicht. Das circa vier Milimeter dünne Accessoire wird an den Lighting-Adapter angeschlossen und kann kabelos auf der dazugehörigen Ladestation geladen werden.
+Bei der Kontaktlinse handelt es sich um zwei Teile einer normalen Kontaktlinse zwischen denen sich ein Funk-Chip mit Sensor befindet. Dieser soll für Diabetiker des Glucose-Gehalt im Tränenfilm messen und den Träger bei bedenklichen Messungen warnen.
+ION ist eine Brille, die mit normale Brillengläser bestückt ist. Lediglich der Rahmen ist mit LED bestückt, diese signalisieren dem Träger bei Anrufen, eigengehenden Nachrichten oder Email.
+Die ansteckbare Kleinkamera Lifelogger wird wie ein Headset ans Ohr geklemmt. In dem Gehäuse befinden sich WLAN, Bluetooth und GPS, die mit dem Smartphone verbunden sind und die Kamera per Knopfdruck auslöst.
+Ein intelligentes Plaster, welches den Körper überwacht und+Medikamente freisetzt oder stoppt falls diese benötigt bzw. nicht benötigt werden.
+Die Cyborg Brille soll sicherstellen, dass sich andere Menschen von uns stets wahrgenommen fühlen – und das obwohl wir vielleicht gerade ein Nickerchen machen, oder auf das Smartphone-Display schauen.
+Der Haltungstrainer soll eine Fehlhaltung des Rückens, beispielsweise beim Sitzen erkennen und den Träger auf die falsche Position per Vibration aufmerksam machen.
+Ist ein smartes Armband, welches Auskunft über verbrauchte Kalorien, zurückgelegte Strecken etc. gibt und zusätzlich über SMS, Anrufe und den Schlafzyklus informiert.
+Ist ein Fitnesstracker, der an Gürtel, Kragen oder Hostentasche befestigt werden kann und über Schritte, Entfernung, Kalorienverbrauch etc. informiert und mit dem Smartphone synchronisiert.
+Ist ein Fitnesstracker der über Schritte, Entfernung, Kalorienverbrauch etc. informiert und mit dem Smartphone synchronisiert ist. Zusätzlich misst er das Schlafverhalten und weckt zur optimalen Zeit auf.
+Ist ein Fitnesstracker der über Schritte, Entfernung, Kalorienverbrauch etc. informiert und mit dem Smartphone oder PC synchronisiert ist. Zusätzlich misst er das Schlafverhalten und trackt  die Fortschritte im Fitnessbereich in Echzeit und motiviert dadurch zusätzlich.
+Ein extrem kleiner Fitness Tracker, der Schritte, Entfernung, verbrauchte Kalorien misst und an das Smartphone weiterleitet. Zusätzlich misst er noch das Schlafverhalten und ist zu 100%. Wasserdicht und kann zum Schwimmen eingesetzt werden.
+Ein smartes Armband, welches Dinge wie Training protokolliert und zusätzlich den Schlaf misst. Ist mit einer Apps verbunden, wo auch die Ernährung und Lebensereignisse eingegeben werden können.
+Ein extrem kleiner Fitness Tracker, der Schritte, Entfernung, verbrauchte Kalorien misst und an das Iphone weiterleitet. Zusätzlich misst er noch das Schlafverhalten und ist zu 100%. Wasserdicht und kann zum Schwimmen eingesetzt werden.
+Ein biometrisches T-Shirt mit Sensoren, das körperliche Aktivitäten und Leistungen sowie die Herzfrequenz misst und ans Smartphone überträgt.
+Ein Sensor im Zahn soll den Arzt über Unregelmäßgikeiten im Lebensstil des Patienten informieren. Per Funk werden die Daten des Kiefers an das Smartphone übertragen und sollen beispielsweise über Rauchen oder Essgewohnheiten informieren.
+Ein von Microsoft entwickelter BH misst, ob die Trägerin gestresst ist und schickt ihr entsprechende Daten aufs Smartphone. Das Bewusstmachen von Stress soll helfen, emotional motiviertes Essen zu verhindern.
+Das Armband wird über die Muskelbewegung im Unterarm gesteuert, dadurch soll es unter anderem möglich sein, Spiele zu spielen, in Präsentationen Folie zu wechseln oder Drohnen zu steuern.
+Ein smartes Armband welches seinen Besitzer anhand des Pulsschlages erkennt. Dadurch sollen Passwörter, Pins und Autoschlüssel ersetzt werden. Zusätzlich sollen Tablets und Smart-TVs damit gesteuert werden.
+Ist ein T-Shirt auf dem ein Bild, Text oder Animation angezeigt werden kann. Das Shirt muss hierfür mit dem Smartphone verbunden sein.
+Sind drahtlose Kopfhörer, die neben dem abspielen von Musik noch andere Features besitzten. So ermöglichen die Kopfhörer ein Tracking der Geschwindigkeit, Herzfrequenz etc. und zusätzlich noch eine Freisprechfunktion.
+Hexoskin hilft dabei, sein Sport-Training besser auszuwerten, während des Tages sein Stress-Level zu messen oder auch sein Schlafverhalten zu analysieren. Die Daten werden vom T-Shirt gesammelt und ans Smartphone geschickt, wo diese ausgewertet werden.
+Eine Smarte Snowboardbrille die mit GPS ausgestatet ist, dadurch können Daten wie Geschwindigkeit, Höhe, Lage und Kompass angezeigt werden. Zusätzlich kann der Standort mit Freunden auf der Piste geteilt werden.
+Ein sehr kleiner Fintnesstracker mit nur 28 Gramm Gewicht, der mit Sprach und Gestensteueung funktionieren soll.
+Eine smart Watch die im Gegensatz zu den meisten smart Watches auch ohne Smartphone funktioniert. Bei der Uhr ist eine Texteingabe integriert, aber auch eine Spracheingabe ist möglich. Zusätzlich ist in der Uhr auf Vorder- und Rückseite eine 5 Megapixel Kamera eingebaut.
+Ein Handy was wie eine Ambanduhr ausschaut ist speziell für Kinder entwickelt worden und auf ein minimum der Funktionen begrenzt ist. Das Handy hat kein Display und es sind nur Anrufe möglich, zusätzlich ist eine GPS Ortung durch die Eltern möglich.
+Eine Smartwatch die einen Sim Karten Slot besitzt und dadurch Telefongespräche möglich sind. Zusätlich soll die Uhr einen GPS-Empfänger, einen Herzfrequenz Monitor und eine Kamera besitzten.
+Ein Schlüsselanhänger wie ein Taschenmesser, der auf Knopfdruck die Schlüssel herausspringen lässt. Kann mit Smartphone gekoppelt werden, um so jeweils das andere Gerät zu suchen.
+Ein Fitness Tracker der Schritte, Höhe, Entfernung und Kalorienverbrauch misst. Zusätzlich misst der Tracker, die Herzfrequenz, Sauerstoffgehalt im Blut und das Schlafverhalten. Die eingebaute Motivationsfunktion soll die Leistungsbereitschaft steigern.
+Für die virtuelle Realität entwickelte Datenhandschuhe mit Oberkörpersensoren, die als Steuerung von virtuell Reality Spielen genutzt werden können. Außerdem soll dadurch die klassische Maus erstzt werden können.
+Ein Motorradhelm der mit Augmented Reality Technology ausgestattet ist. Der Fahrer soll über eine eingebaute Brille über Verkehrslage, nächste Tankstelle etc informiert werden. Zusätzlich ist eine Kamera eingebaut, die den zurückliegenden Verkehr anzeigt und Unfälle automatisch aufzeichnet.
+Eine Kombination von klassicher mechanischer Uhr mit moderner Smartwatch. Die Uhr verfügt über eine Spracherkennung, Mikrofon sowie Lautsprecher, somit kann sie Befehle annehmen und Antworten liefern. Über ein kleines OLED Display werden Anrufe und Nachrichten angezeigt.
+Eine Mini Kamera, die fast überall befestigt werde kann z.B. am Surfbrett, Angel oder Gitarre. Die Kamera ist mit dem Smartphone verbunden, dadurch ist eine Kabellose Steuerung auch aus größeren Entfernungen möglich.
+Mit den Schuhen in Verbindung mit den Einlagen, werden die Schritte, Strecke und verbrauchten Kalorien gezählt. Zusätzlich wird über GPS und Vibrationen im Schuh die Strecke angezeigt.
+Ist ein Fitnesstracker der über Schritte, Entfernung, Kalorienverbrauch etc. informiert und mit dem Smartphone synchronisiert ist. Zusätzlich misst er die Zeiten in denen sich der Nutzer ausreichend bewegt hat und motiviert in dadurch.
+Ist eine Sportwatch die Funktionen wie, Standort, Strecke, Geschwindigkeit und verbrannte Kalorien anzeigt. Zusätzlich motiviert sie über eine Lauferinnerung und kann mit einem Zusatztool die Herzfrequenz messen.
+Die Recon Jet ist mit einem kleinen Head-Up-Display ausgestattet, welches dem Fahrer oder Jogger Daten wie Geschwindigkeit, Strecke und Information liefert. Zusätlich können Herzfrequenz, Kurbelumdrehungszahl sowie Trittkraft übermittelt werden. Auch eine Freisprechfunktion sowie eine Übermittlung der Fahrstrecke in soziale Netzwerke ist möglich.
+Der Ring Ringly ist ein smartes Gaget für Frauen, die gerne ihr Smartphone in der Handtasche tragen. Kommt ein Anruf, SMS oder E-Mail, so leuchtet der Ring kurz auf und gibt leichte Vibrationen ab.
+Ist ein Fahrradrucksack an dessen Rückseite LEDs eingearbeitet sind, die dem nachfolgenden Verkehr anzeigen sollen in welche Richtung man abbiegt. Gesteuert wird die Beleuchtung kabelos über eine Fernsteuerung am Fahrradlenker.
+Das Halsband Whistle ist ein Trackinggerät mit GPS für das Haustier. Dadurch kann jederzeit der Standort des Hundes, sowie die täglichen Aktivitäten des Vierbeiners überprüft werden.
+Ist ein Fitnessarmband für den Oberarm, welches die Bewegungsgewohnheite, verbrannte Kalorien und die Schlafgewohnheiten überprüft.
+Eine Mini Sportrechner der um die Brust geschnallt wird und so die individuellen Trainingsleistungen misst. Es soll die Frezquenz des Herzens, der Atmung sowie die Körpertemperatur messen.
+Ist eine Uhr für Kinder, die gleichzeitig auch eine GPS Funktion besitzt, damit jederzeit der Standort des Kindes nachverfolgt werden kann. Über eine SMS Funktion ist auch eine Benachrichtigung der Kinder möglich.
+Ein Armband speziell für die individuelle Analyse des Tennisspiels des Benutzers. Es sollen Daten wie Spin und Handumdrehungen, Geschwindigkeit des Spiels sowie Dynamik und Konstanz des Spiels gemessen werden. Anschließend werden über die zugehörige Apps Ratschläge und Tipps angezeigt.
+Ist ein LED-Band für Radfahrer, Jogger und Fußgänger welches um den Körper gelegt wird und bei Nacht leuchtet. Das Band hat einen Beschleunigungssensor welches bei fallender Geschwindigkeit in blinkende und in auffallende Töne wechselt. Zusätzlich informiert das Band durch Lichtsignale über ankommende Anrufe, Nachrichten etc.
+Fitness Band für Kinder im Alter von 4-7 Jahren, welches spielerisch Aktivitäten vermitteln soll. Zum Beispiel werden Aktivitäten wie "Hüpf wie ein Frosch" von den Eltern eingestellt, welche die Kinder ausführen sollen.
+Ist eine Mini Kamera die mit einer Kette oder Band um den Hals gehängt werden kann. Die Kamera soll den selben Blickwinkel wie das menschliche Auge besitzten und so den Tagesablauf im Zeitraffer dokumentieren soll. Zusätzlich besitzt die Kamera eine GPS Funktion um die einzelnen TagesetAppsen zu dokumentieren.
+Eine ansteckbare Mini-Kamera die automatisch Bilder schießen kann. Sobald die Kamera am Körper befestigt ist, schießt die 5 Megapixel Kamera alle 30 Sekunden ein Bild. Die Bilder können wenn gewünscht automatisch in die Cloud hochgeladen werden.
+Eine an Hemd, Jacke etc. anteckbare Mini-Kamera die Videos oder auch Bilder aufzeichnen kann.
+Ist eine Virtuell Reality Brille, die an allen modernen Spielekonsolen, PC, Mac und bei Blu-Ray-Filmen einsetzbar sein soll.
+Ist eine Virtuell Reality Brille, die für die Playstation 4 einsetzbar sein soll. Die Sensoren nehmen alle Bewegung des Kopfes auf und geben diese in die virtuelle Welt weiter.
+Eine Lederhandtasche für Frauen, in der Handtasche ist ein Akku integriert, welcher das Iphone wieder aufladen kann.
+Ein Armband welches mit einem Mikrofon ausgestattet ist, das dauerhaft den Ton aufzeichnet. Wird es angetippt, werden die letzten 60 Sekunden gespeichert und aufs Smartphone übertragen.
+Ein Stirnband welches die Gehirnströme misst und so Stresssituationen erkennen soll. Wird Stress gemessen, so wird entspannende Musik eingespielt oder Aufgaben an die Apps übermittelt die zur Entspannung führen sollen.
+Eine Trainingshose für Radfahrer und Läufer, die mit Sensoren ausgestattet ist um die Muskelbewegung der Beine zu messen. Diese Daten werden an das Smartphone übermittelt, wo diese ausgewertet werden können. So kann beispielsweise festgestellt werden, ob ein Bein mehr beansprucht wird als das andere. Zusätzlich wird mit GPS die Strecke gemessen und auch Daten wie Geschwindigkeit etc. werden übermittelt.
+Eine smarte Datenbrille, die den Zugang zu Information und Datenquellen ermöglicht. Die Datenbrille ist mit Tausenden Android-Apps kompatibel und bietet die Funktionen eines moderen Smartphone. Eine Freisprechfunktion, Kamera für Fotos und Video sowie GPS sind ebenfalls integriert.
+Ein Ring speziell für Gehörlose die mit Gebärdensprache kommunizieren entwickelt. Ein Armband zeigt den Text an, welcher durch die Bewegung der Finger, an denen die Ringe stecken erzeugt wird. So kann der Empfänger der Botschaft den Text ablesen. Das Armband ist mit einem Mikrofon ausgestattet, dass für den Gehörlosen die gesprochenen Wörter des Gesprächspartners anzeigt.
+Ein biometrischer Sensore, der ähnlich wie ein Plaster auf die Brust geklebt wird und so zahlreiche medizinische Daten an Smartphone und Tablet übertragen soll.
+Ein Stirnband welches die Vitalfunktionen messen soll. Diese soll die Herzfrequenz messen und den Träger beim Sport unterstützen. Gemessen werden kann die Strecke, verbrauchte Kalorien etc., zusätzlich soll die Körpertemperatur gemessen werden um vor Verletzungen zu schützen. Die Daten werden an das Smartphone übermittelt und an den Träger weitergegeben werden.
+Der Schreiber trägt ein Armband mit einer Verdickung, in der Beschleunigungssensoren und Kreiselinstrumente untergebracht sind, die die HandBewegung erkennen.  Die Software erkennt die HandBewegung und wandelt diese in Wörter um die anschließend auf dem Bilschirm erscheinen.
+Ein Fitness Tracker der mit Hilfe von Beschleunigungs- und Lagesensoren erkennen soll, wie sich der Träger gerade bewegt. Dadurch sollen auch Übungen wie Liegestützen und Sit-Ups gezählt werden können und in welcher Intensität diese ausgeführt werden.
+Ist eine Smartwatch die gleichzeitg Daten des Autos sowie des Fahrers anzeigen soll. So kann zum Beispiel die Effizienz des Fahrzeugs wie Durchschnittgeschwindigkeit und Kraftstoffverbrauch angezeigt werden. Aber auch der Puls soll gemessen werden, um den Fahrer bei hohen Puls zum drosseln der Geschwindigkeit zu animieren und Unfälle zu vermeiden.
+Verwandelt das Smartphone ist eine Leistungsstarke Kamera, die auf die Kamera am Telefon gesteckt werden muss. Die Aufstecklinse funktioniert mit NFC und Wi-Fi.
+Ein smartes Armband welches viele Finanzangelegenheiten wie Pay-Pal, Girokonto oder Kreditkarten regeln soll. Mit dem Armband sollen Waren in Geschäften bezahlt werden oder auch per Handschlag einen Freund Geld geliehen.
+Ein kleiner Scanner der in etwa die Scannfläche einer Kreditkarte besitzt. Der User fährt mit diesem über den gewünschten Bereich und der Scanner leitet die Daten via Bluetooth an PC, Ipad etc. weiter.
+Eine Smartwatch die via Bluetooth mit dem Handy verbunden ist. Dadurch können mit der Uhr Anrufe getätigt und angenommen werden, aber auch bestimmte Apps ausgeführt werden. Zusätzlich soll die Uhr sehr robust sein und auch für Outdoor Aktivitäten geeignet sein.
+Ein Motorradhelm der mit Augmented Reality Technology ausgestattet ist. Der Fahrer soll über eine eingebaute Brille über Verkehrslage, nächste Tankstelle etc informiert werden. Zusätzlich ist eine Kamera eingebaut, die den zurückliegenden Verkehr anzeigt und Unfälle automatisch aufzeichnet. Außerdem besitzt der Helm eine Freisprechfunktion mit Sprachsteuerung, mit dieser Telefonate während des Fahrens getätigt werden können.
+Das Gerät Mogees ist ein Sensor am Smartphone anzubringen mit diesem Töne erzeugt werden können. Der Sensor nimmt Vibrationen zum Beispiel der Hand auf und wandelt diese in elektrische Signale um. Diese Singale werden anschließend von der Apps in Töne umgewandelt.
+Die Schuhe sind mit kleinen Vibrations Motoren ausgestattet, die dem Träger die zu gehende oder fahrende Richtung per Vibration mitteilen. Die Schuhe sind mit dem Smartphone verbunden, wo vorher die Zielstrecke eingegeben wurde.
+Ein Fitness Tracker der die zurückgelegte Strecke, Höhe und verbrauchten Kalorien misst. Zusätlich misst er die Herzfrequenz, Körpertemperatur und das Schlafverhalten.
+Die erste Smartwatch mit einem gebogenem Display, dass um das gesamt Handgelenk führt. Die Uhr verfügt über eine vollständige Tastatur und ist mit dem Smartphone verbunden. So lassen sich zum Beispiel Nachrichten anzeigen und verschicken.
+Eine Smartwatch von Microsoft entwickelt, die leicht gebogen ist, um den Tragekomfort zu erhöhen. Zusätzlich besitzt die Uhr noch Sensoren, mit denen Fitnesstracking möglich ist.
+Eine Smartwatch mit großem 3 Zoll Display, Mikrofon, einem Lautsprecher und einer Ohrmuschel ausgestattet ist. Zusätzlich sind noch Sensoren für Fitness Tracking und GPS verbaut.
+Ist ein Sensor der per Magnet an Gewichten etc. befestigt wird. Dieser Sensor zeigt beim Trainieren, die Intensität und Korrektheit der Ausführung an und leitet diese an die Apps weiter. Der Sensor kann auch per Schlaufe an nicht magnetischen Trainingsgeräten befestigt werden.
+Vom optischen schaut die Uhr aus wie eine gewöhnliche Uhr, ist aber um 3 kleine Anzeigefelder ergänzt. Diese zeigen die Toranzahl der favorisierten Mannschaft, des Gegners und die Spieldauer an. Die Uhr ist mit dem Smartphone verbunden und kann auf das jeweilige Spiel eingestellt werden.
+Vom äußerlichen Design schaut die Uhr aus wie eine analoge Uhr, besitzt aber Fähigkeiten einer Smartwatch. Die Uhr zeigt Termine, Nachrichten und Anrufe die auf dem Smartphone eingegehen auf einem extra Display an. Zusätzlich werden noch Fitnessdaten wie gelaufene Strecke, Stufen, Kalorienverbrauch oder das Schlafverhalten mit der zugehörigen Apps ermittelt.
+Die Smartwatch von Simvalley soll zu 100% unabhängig vom Smartphone sein.  In die Uhr kann eine Simkarte eingelegt werden, mit der Telefonieren, Internet, SMS etc. möglich ist. Zusätzlich können Apps auf der Smartwatch installiert und genutzt werden.
+Eine Smartwatch die speziell für Surfer konzipiert wurde. Die Uhr soll Daten wie Höchstgeschwindigkeit, zurückgelegte Strecke und Wellenzähler messen und anschließend auf dem Smartphone analysiert werden.
+Die Smartwatch von Omate soll zu 100% unabhängig vom Smartphone sein.  In die Uhr kann eine Simkarte eingelegt werden, mit der Telefonieren, Internet, SMS etc. möglich ist. Zusätzlich können Apps auf der wasserdichten Smartwatch installiert und genutzt werden.
+Eine Smartwatch die mit Android und Iphone Smartphone kompatibel ist. Mit der Uhr kann durch Mikrofon und Lautsprecher Gespräche geführt und angenommen werden. Zusätzlich warnt den Träger, sollten Smartphone und Uhr mehr als 10 Meter entfernt sein.
+Eine sehr günstige Smartwatch eines chinesischen Herstellers mit E Ink-Display. Die Uhr informiert über Anrufe und Nachrichten und kann zusätzlich die Fitness-Daten tracken.
+Eine Smartwatch mit E Ink-Display für Android Smartphone und das Iphone. Die Uhr informiert über Anrufe, E-Mails und SMS und ist mit verschiedenen Apps kompatibel.
+Diese neue Smartwatch von Samsung ist mit vielen anderen Android Geräten nutzbar. Sie bietet einen Puls- bzw. Herzfrequenzmesser und eine Benachrichtigungsfunktion von E-Mails und SMS.
+Eine Smartwatch die mit Android und Iphone Smartphone kompatibel ist. Mit der Uhr kann durch Mikrofon und Lautsprecher Gespräche geführt und angenommen werden. Außerdem können E-Mails und SMS auf der Uhr gelesen werden und dient als MP3 Player.
+Ist ein Tracer für Kinder oder auch Ältere Menschen. Der Tracer wird dabei am Handgelenk angebracht, die Standortdaten werden ans Smartphone zum Beispiel der Eltern übermittelt.
+Eine Smartwatch deren Display mit Sonnenlicht betrieben bzw. beleutet wird und so Energie spart. Zusätzlich sollen sich Anrufe, SMS und E-Mails beantworten lassen und über Bluetooth auch Musik abspielen.
+Ein Fitnesstracker der gleichzeitig als Bluetooth-Headset genutzt werden kann. Das wasserresidente Band misst die zurückgelegte Strecke, verbrauchten Kalorien etc. und soll über die integrierten Mikrofone als Headset dienen.
+Ein Armband welches die spezifischen Medizinischen Besonderheiten des Trägers speichert und per NFC vom Arzt, Sanitäter etc. auslesbar sind. Das wasserdichte Armband ist für Sportler gedacht und soll beispielsweise werden Allergien, Implantate, Blutdruck, Einnahme von Medikamenten aber auch Demenz im Gerät hinterlegt.
+Ein Bluetooth Headset, welches unangenehme Geräusche eleminieren soll und dadurch die Ohren schützt. So sollen Geräusche wie schreiende Kinder, Küchengeräusche oder unangenehme Umgebungsgeräusche im Resaurant unterdrückt werden und eine angenehme Unterhaltung fördern. Gleichzeitg könen auch Telefongespräche geführt werden.
+Activity-Tracker
+Ein sehr günstiger Fitnesstracker, der die Aktivitäten des Tages misst. Zusätzlich zeigt er das Schalfverhalten auf und bietet viele Möglichkeiten zur Anbringung am Körper.
+Ein sehr günstiger Fitnesstracker, der die Aktivitäten des Tages misst. Zusätzlich zeigt er das Schalfverhalten auf und bietet eine Zielerreichungsfunktion.
+Eine Virtual Reality Brille die mit dem Smartphone genutzt wird. Das Smartphone wird in die Halterung der Brille geschoben und ermöglicht so eine Sichtfeld von 110 Grad.
+Ein Raumsensor für Zuhause oder die Büroräume für ein gesünderes Umfeld. Der kleine tragbare Sensor misst Daten wie Temperatur, Luftfeuchtigkeit, Lautstärke, Luftqualität und Luftdruck. Die Daten werden ans Smartphone gesendet und sollen den Nutzer warnen, wenn zum Beispiel gelüftet werden sollte.
+Ein smarter Ring der eingehende Nachrichten, Mails und Anrufe anzeigt. Zusätzlich soll der Ring das Smartphone steuern und zum Beispiel, die Kamera auslösen, die Musik steuern etc..
+Eine Brille ähnlich wie Google Glasses, deren Hauptaugenmerk auf der Darstellung von Augmented Reality liegt.
+Ist eine Sportwatch die Funktionen wie, Standort, Strecke, Geschwindigkeit und verbrannte Kalorien anzeigt. Zusätzlich motiviert die Uhr anhand von Signalen und misst die Herzfrequenz.
+Ein Tracker für Kinder, der statt der verbrauchten Kalorien oder Schritte eine erreichte Punktzahl anzeigt. Die Erwachsenen können die Daten auf Ihrem Smartphone oder PC einsehen.
+Eini Mini-Kamera die hinters Ohr geklemmt wird und so fixiert wird. Die Aufnahmeeinheit wird am Oberarm befestigt. Mit Wi-Fi können die Aufnahmen geteilt und verschickt werden. Beide Einheiten sind bis 1,5 Meter Wasserdicht und können zum Schnorcheln verwendet werden.
+Ein Fitness-Armband welches Elektroschocks auslöst, sollte der Träger nicht seine gewünschten Einheiten ausführen.
+Beide Boxhandschuhe sind jeweils mit 2 Sensoren ausgestattet, die Geschwindigkeit und Stärke der Schläge analysieren sollen. Dadurch eine das Training optimiert und mit der Apps verfolgt werden.
+Ein Armreif im edlem Design in den Farben Silber, Schwarz oder Gold. Der Armreif informiert per Aufleuchten oder Vibration über eingehende Nachrichten und Anrufe. Unterschiedliche Farben können unterschiedlichen Personen zugeordnet werden.
+Eine Smartwatch mit 360 Grad Kamera die am Display gedreht wird und so auch Selfies ermöglicht. Zusätzlich ermöglicht die Uhr Telefonate zur führen, Nachrichten zu schreiben etc. Zudem ist ein Schrittzähler und ein Herzfrequenzmesser mit integriert.
+Die Smartwatch ermöglicht die Uhr Telefonate zu führe, Nachrichten zu schreiben, Emails zu lesen etc. Die Uhr ist mit einer Sprachsteuerung ausgestattet, was eine größere Flexibilität ermöglicht.
+Ein Smarter Schlüsselanhänger, der sich automatisch am PC aus- sowie einloggt wenn man sich entfernt bzw. nähert.
+Ein Smartes Strumpfband, welches die Fitnessaktivitäten des Trägers misst. Das Band soll auch dem Träger anzeigen, wenn getrunken, eine Pause oder das Bein anders belastet werden.
+Eine Smarte Golfuhr mit GPS Funktion, diese zeigt mit CourseView-Taste das Grün und Fairway an. Zusätlich ist eine Schwung Training Funktion integriert und die Uhr zeigt eingehende Nachrichten und Anrufe an.
+Ein sehr günstiger Fitnesstracker, der die Aktivitäten des Tages misst. Zusätzlich zeigt er das Schalfverhalten auf und bietet eine Zielerreichungsfunktion.
+Ein Fitness Band für den Rücken. Das Band analysiert die Bewegunsabläufe und sammelt diese Daten. Der Arzt kann diese Daten auswerten und Rückenbeschwerden einfacher analysieren und Gegemaßnahmen empfehlen.
+Ein Ring der die Körpertemperatur und den Herschlag des Trägers auswertet und an das Iphone weiterleitet. Zusätzlich kann der Ring je nach Simmungslage die Farbe ändern.
+Ein Sensor für Menschen mit Gleichgewichtsstörungen zum Beispiel nach Unfällen. Der Sensor analysiert die Bewegung und kann so dem Arzt anzeigen, woher die Gleichgewichtsstörung stammt.
+Ein Strinband welches die elektrischen Aktivitäten des Gehrins überwachen und analysieren soll. Dadurch sollen die mentalen Fähigkeiten verbessert und Meditation und Entspannung gefördert werden. Die zugehörige Apps gibt dazu noch Tipps und Anweisung für eine verbesserte Entspannung.
+Eine Handprothese, die sich über die Apps steuern lässt und so vordefinierte Griffmuster einprogrammiert werden können. Zusätzlich wird die Hand über myoelektrische Signale gesteuert.
+Ein Handschuh, der Tastatur und Maus beim Spielen am PC oder Konsole ersetzten soll. Der Handschuh hat 38 Sensoren, die die Bewegung der Hand übermitteln und so für eine schnellere Geschwindigkeit und besseres Spielgefühl sorgen sollen.
+Eine Minikamera, die wie eine Halskette getragen wird. Die Kamera kann ständig Filmen bzw. in bestimmten Intervallen, diese Aufzeichnungen sollen das Leben dokumentieren. Die Daten werden ans Smartphone übertragen und können von dort in die Cloud übertragen werden.
+Sind drahtlose Kopfhörer, die neben dem abspielen von Musik auch als Fitness Tracker dient. So ermöglichen die Kopfhörer ein Tracking der Geschwindigkeit, Herzfrequenz, Blut-Sauerstoffmessung etc. und zusätzlich noch eine Freisprechfunktion.
+Ein Ring der die Maussteuerung ersetzten soll. Die Sensoren erkennen die Bewegung des Fingers und mit zwei Tasten lassen sich linke und rechte Maustaste bedienen.
+Ist ein Mikrofon welches als Halskette getragen wird und so Menschen mit Hörschwächen unterstützen soll. Das Mirkofon nimmt die Geräusche auf und wird an die Kopfhörer übertragen. Zusätzlich sollen störende Umgegebungsgeräusche gefiltert werden.
+Ein Biologischer Senseor, der auf der Haut des Trägers befestigt wird. Der Sensore misst Werte wie Elektrokardiogramm, Körpertemperatur, Bewegungsverhalten etc. und leitet die per Bluetooth ans Smartphone weiter.
+Ein Sensor der zum Beispiel als Halskette getragen werden kann und mit einem Paniksensor ausgestattet ist. Wird dieser ausgelöst, wird an die hinterlegten Adressen ein Nachricht mit aktuellen Standort geschickt.
+Verschiedene Schmuckstücke wie Halsketten, Ringe etc. bei denen auf der Rückseite eine QR-Code integriert ist. So können Sprüche, Nachrichten etc. mit dem Smartphone ausgelesen werden und ständig abgefragt werden.
+Ein Fitnessarmband von Adidas, welches zurückgelegte Strecke, Kalorienverbrauch, Herzfrequenz und die Uhrzeit anzeigt.
+Ein Handschuh, der die Musik des Smartphone während sportlicher (Ski etc) Aktivitäten steuern soll. Berühren sich beispielsweise Daumen und Zeigefinger wird ein Lied übersprungen usw.
+Ein Smartes Armand, welches den Träger durch leuchten und vibrieren auf neue Nachrichten in sozialen Netzwerken, Anrufe oder SMS auf dem Smartphone hinweist.
+Ist ein Tracker, der an den Hosenbund in Hüfthöhe geklippt wird. Der Tracker soll bei Sportlern und Athlethen die Sprunghöhe analysieren und auf dem Smartphone oder Tablet darstellen.
+Eine GPS Sportuhr, die den Sportler beim Laufen, Radfahren oder Schwimmen die optimale Herzfrequenz anzeigt. Dadruch sollen je nach Trainingsziel die optimalen Ergebnisse erziehlt werden.
+Der Haltungstrainer soll eine Fehlhaltung des Rückens, beispielsweise beim sitzen oder laufen erkennen und den Träger auf die falsche Position per Vibration aufmerksam machen.
+Das Porticool ist ein T-Shirt, dass mit einem CO2 Behälter verbunden ist und so bei Training oder anstregenen Tätigkeiten(Feuerwehr) den Körper kühlt und vor einer Überhitzung schützt.
+Sind Socken die mit einem NFC Chip ausgestattet sind und mit dem Smartphone dem richtigen anderen Socken zugeordnet werden können. Zudem kann eingesehen werde, wie oft die einzelnen Socken schon gewaschen etc. wurden.
+Das Halsband Whistle ist ein Trackinggerät mit GPS für das Haustier. Dadurch kann jederzeit der Standort des Hundes, sowie die täglichen Aktivitäten des Vierbeiners überprüft werden.
+Ein Ortungstracker im Format einer Münze. Kann in Geldbeutel, ans Fahrrad etc. platziert werden und übers Smartphone geortet werden.
+Ein Armband das je nach Gebrauch, mit den benötigten Bausteinen gestaltet werden kann. So können bsw. Module für Vibrationsalarm, Radioempfang, Fitnesstracker etc. angebracht werden.
+Ein Tracker für Sportler im Profibereich, welches von großen Fussballvereinen oder der NFL eingesetzt wird.
+Ein Fitnesstracker der neben der sportlichen Leistungsmessung den Träger zur Entspannung führen soll. Der Tracker erkennt, sollte der Träger unter Stress und animiert die Tätigkeit einzustellen und tief durchzuamten.
+Eine Smartwatch die Anzeige des Displays auf den Arm projektiert. So können Uhrzeit, Nachrichten, Anrufe durch ein leichtes Schütteln des Handgelenks dargestellt werden.
+Ein Fitness Tracker für Kinder, der mit einem Spiel verbunden ist. Die Eltern können die Schritte, Kalorienverbrauch und Distanz der zurückgelegten Strecke messen.
+Sind Bluetooth Socken mit einem Band, die Schritte, Geschwindigkeit sowie die Gewichtsverteilung auf die Füße messen sollen.
+Der Haltungstrainer soll eine Fehlhaltung des Rückens, beispielsweise beim sitzen oder laufen erkennen und den Träger auf die falsche Position per Vibration aufmerksam machen.
+Ein Mulitfunktions-USB-Gerät, welches am Schlüsselbund angebracht wird. Es kann den Akku des Smartphone aufladen und auf bis zu 30 Meter zwischen den Geräten Alarm schlagen, sollte eines der beiden verlegt werden.
+Eine Kappe die unter einem Helm getragen wird und Spieler, Mitspielern oder Trainer anzeigt, wenn der Träger einen harten Schlag auf den Kopf bekommen hat. So sollen Verletzungen angezeigt bzw. vorgebeugt werden.
+Der Sensor wird in die Windel des Kindes gesteckt und schlägt Alarm, sobald in die Windel gemacht wurde. Gleichzeitig soll er den Urin analysieren und so auf Unregelmäßigkeiten aufmerksam machen.
+Ein T-Shirt welches mit Mikrosensoren im Stoff augestattet ist. Diese messen die Körpertemperatur, Herzfrequenz, Atemfrequenz und kann die Bewegung anhand von GPS analysieren.
+Ein Headset welches es ermöglicht auch offline verschiedene Sprachen zu übersetzen. Dies soll ohne Pausen passieren, damit ein Gesrpächsfluss aufrecht erhalten werden kann.
+Eine smarte Datenbrille für den medizinschen Einsatz. Die Brille kann ich Echzeit durch die Haut des Patienten auf die Venen hindurch sehen.
+Ist ein Tracker für Senioren, der wie eine Uhr um das Handgelenk des Trägers angelegt wird. So kann außerhalb des Hauses der Standort bestimmt werden. Zusätzlich können Sensoren im Zuhause angebracht werden, diese schlagen Alarm, sollte der Träger Ohnmächtig werden und in einer ungewöhnlichen Stellung am Boden liegen.
+Ist ein Tracker für Senioren, das um den Hals des Trägers angelegt wird. So kann jederzeit der Standort des Trägers bestimmt werden. Zusätzlich ist eine Notfalltaste angebracht, mit der Hilfe gerufen werden kann.
+Ist ein Körper Sensor, der wie ein Plaster am Körper angebracht wird und Funktionen wie EKG, Atmungsrate, Puls etc. misst. Diese Daten werden in die Cloud geladen und können vom Arzt jederzeit und überall betrachtet werden.
+Ein smartes Armband, welches als Zahlungsinstrument benutzt werden kann. Auf das Armband kann ein Geldbetrag geladen werden, welcher durch Konatkt mit einer Zahlungsstation abgebucht wird.
+Sind Anhänger, Ringe oder Ketten, die sollte eine Nachricht oder Anruf eingehen die Farbe verändern bzw. eine Anzeige erscheinen lassen.
+Eine Smarte Golfuhr mit GPS Funktion, diese zeigt mit CourseView-Taste das Grün und Fairway an. Zusätlich zeigt die Uhr eingehende Nachrichten und Anrufe an.
+Eine Weste die für Gaming Zwecke gedacht ist. So werden Explosionen oder Treffer auf dem Oberkörper per Druck spührbar gemacht.
+Ein Fitness Tracker, der während des Trainings erkennt welche Übung der Träger ausführt und ob diese richtig ausgeführt wird. Dadurch sollen Verletzungen vorgebeugt und während des Trainings bereits Anweisungen erteilt werden.
+Eine smarte Brille, die mit einem Lichtsignal und/oder Ton signalisiert, dass eine Nachricht oder ein Anruf auf dem Smartphone eingegangen ist.
+Ein intelligentes Plaster, welches den Körper mit Sensoren überwacht und 20 Daten aufnimmt und aufs mobile Endgerät überträgt. Das Pflaster nimmt Daten wie Körpertemperatur, Schrittzahl, Schlafverhalten etc. auf.
+Eine smarte Brille, die Video und Audioinhalte wiedergeben kann.Zusätzlich bietet die Brille unter anderem eine LiveChat Funktion, Telefonieren und lesen von Nachrichten.
+Eine smarte Uhr, die auch ohne Smartphone zum telefonieren eingesetzt werden kann.
+Ist ein smarter Brustgurt zur Messung von Herzfrequenz und EKG während des Sport oder Freizeit.
+Ist ein Fitness Tracker, der auch ohne Smartphone funktioniert. Er zeichnet automatisch verbrauchte Kalorien, Schritte und Strecke auf.
+Ist ein Fitness Tracker, der auch ohne Smartphone funktioniert. Er zeichnet automatisch verbrauchte Kalorien, Schritte, Strecke und Herzfrequenz auf.
+Ist ein smarter Brustgurt zur Messung von Herzfrequenz während des Sport oder Freizeit.
+Ist eine Uhr für Kinder, die gleichzeitig auch eine GPS Funktion besitzt und die Eltern informiert, sollte das Kind eine bestimmte Zone überschreiten. Über eine SMS Funktion ist auch eine Benachrichtigung der Kinder möglich, sowie das Kind die Eltern.
+Ist ein Tracker der am Oberarm während Fitnessübungen befestigt wird. Dieser Sensor zeigt beim Trainieren, die Intensität  Ausführung an und leitet diese an die Apps weiter. Dieser Tracker gibt auch Anweisungen, wie Gewichtsveränderug etc.
+Ein Schnurloses Headset, dass beim Sport eingesetzt werden kann. Über das Headset kann Musik abgespielt werden und Anrufe mit dem verbundenen Smartphone angenommen werden.
+Ein Armband zum Tracking von Personen. So wird bsp. Für Eltern sichergestellt wo ihre Kinder sind.
+Ist ein Wegwerfchip, der auf dem Fingernagel aufgesteckt wird und die Uhrzeit auf diesem anzeigt.
+Ist ein smartes Armband für Klettersportler. Dieses analsiert bestimmte Kletterwerte unter anderem auch mit welcher Belastung jeder Arm beansprucht wurde.
+Ein paar Handschuhe der beim Klavierspielen vorgibt, welcher Finger welche Taste drücken soll.
+Ist ein Tracker für Kinder oder Hunde, der eine GPS Funktion besitzt, damit jederzeit der Standort des Kindes oder Hundes nachverfolgt werden kann.
+Ist ein digitales Armband, wenn der Träger mit seinem Handy in die Nähe kommt, wird 1 Minute später ein Fake Anruf ausgelößt.
+Eine Hose die induktives Laden eines Smartphones in der Hosentasche, mithilfe eines elektromagnetischen Feldes möglich macht.
+Ein digitales Tattoo auf der Haut, dass die Eingabe eines Pin etc. auf dem Smartphone ersetzt. Das Handy wird über das Tattoo gehalten und wird so automatisch entsperrt.
+Mit der Smartwatch können Nachrichten empfangen, Musik abgespielt und Bilder angeschaut werden. Zusätzlich können bis zu 500 Kontaktdaten gespeichert werden.
+Eine Art Handschuh für Blinde, um diesen den Alltag zu erleichtern. Ein Sensor der über den Finger gezogen wird und so z.B. Schriftstücke lesen kann.
+Eine futuristische Sonnenbrille, die zwischen den Gläsern versteckt eine Mini-Kamera eingebaut hat. Somit können versteckt Videos oder Bilder aufgenommen werden.
+Sind smarte Schuhe, die mit RFID Sensoren ausgestattet sind und so beispielsweise mit Facebook kommunizert. Betritt der Träger ein Cafe wird über die Fußmatte eine Statusmitteilung über den Standort gepostet
+Eine Datenbrille die ähnliche wie Google Glass aufgebaut sein soll. Die Brille erlaubt unter anderem Video- und Audioaufzeichnungen.
+Ist ein Sensor der um Hals, Armgelenk etc. getragen werden kann. Der Sensor erstellt ein Aktivitätsprotokoll und soll auf spielerische Art das Leben mit dem engen Bekanntenkreis teilen.
+Strinband welches das Traumverhalten steuern und verbessern soll.
+Ist ein Blutdruckmessgerät, welches mit einer App synchronisiert werden kann und so die Werte im Zeitablauf analysiern kann.
+Ist ein Blutdruckmessgerät welches am Oberarm befstigt wird und mit einer App synchronisiert werden kann. Die Werte können so im Zeitablauf analysiern und beobachtet kann.
+Ein T-Shirt welches mit Mikrosensoren im Stoff augestattet ist. Diese messen die Körpertemperatur, Herzfrequenz, Atemfrequenz und kann die Bewegung anhand von GPS analysieren.
+Eine smarte Jogamatte, die dem Nutzer Anweisungen bzw. Ratschläge über korrekte Ausführung der Übungen gibt.
+Ist ein Fitness Tracker, der auch ohne Smartphone funktioniert. Er zeichnet automatisch verbrauchte Kalorien, Schritte, Strecke,Herzfrequenz und das Schlafverhalten auf.
+Ist ein Luxus Chronograph mit GPS-Funktion, der die Zeit anhand eines Sateliten anpasst.
+Ein Schwimmband welches an der Strin von Kindern angebracht wird. Ist das Band längere Zeit unter Wasser, wird ein Alarm an das Smartphone der Aufsichtsperson gesendet.
+Ist eine Sporthose und ein T-Shirt, welche mit Sensoren ausgestattet sind. Diese Sensoren messen Herzfrequenz, Muskel Aktivität etc. und geben die Daten ans Smartphone weiter.
+Ist ein Fitness Tracker, der auch ohne Smartphone funktioniert. Er zeichnet automatisch verbrauchte Kalorien, Schritte, Strecke etc. auf.
+Eine Smartwatch die eingehende Anrufe auf dem Smartwatch anzeigt und per Vibration bemerkbar macht. Zudem können Nachrichten angezeigt werden.
+Eine Luxus Smartwatch die ein Design wie ein Chronograph besitzt. Die Funktionen sollen jedoch wie bei einer Smartwatch sein, sprich Anzeige von Anrufen, Terminen etc.
+Eine Wasserdichte Datenbrille, die Schwimmern während des Schwimmens Daten wie, Herzfrequenz, verbrauchte Kalorien und Rundenanzahl anzeigt.
+Ein smarter Basketball der 6 Sensoren integriert hat. Er misst Werte wie: Wurfgenauigkeit, Effet, Geschwindigkeit, ausgeübte Kraft etc. und leitet diese ans Smartphone weiter.
+Ein BH der Sensoren besitzt und so die Herzfrequenz der Frau beim Sport oder im Alltag misst.
+Eine Smartwatch die Anrufe und Nachrichten anzeigt. Zusätzlich zeigt die Uhr gelaufene Schritte an.
+Ist ein Tracker der am Sportgerät oder Körper des Sportlers befestigt wird. Dieser misst z.B. Höhe, Speed, Airtime uvm.
+Ist ein Tracker für den Penis. Dieser zeichnet Bewegung und Aktivität des Träger auf.
+Ist eine Smartwatch, die es erlaubt Anrufe zu tätigen, Email zu lesen und Fotos zu schießen. Sie benötigt kein Smartphone als Verbindungsstück.
+Ist eine Smartwatch, die es erlaubt Anrufe zu tätigen, Email zu lesen und Fotos zu schießen. Sie benötigt kein Smartphone als Verbindungsstück.
+Ist ein T-Shirt welches mit Sensoren ausgestattet ist und für Pilates Übungen genutzt wird. Wird eine Pilates Übung falsch ausgeführt, dann vibriert das Shirt und signalisiert so dem Träger eine Fehlstellung.
+Eine Smartwatch von Hersteller Swatch, die wie eine herkömmliche Uhr ausschauen soll, aber Funktionen einer Smartwatch besitzt.
+I-Phone Netzteil, dass in einen Würfel eingeschoben wird. Dieser hat einen integrierten Akku und kann das Smartphone bis zu 70% Batterieladung wieder aufladen.
+GPS-Funker in  Münzgröße, den man an alle Gegenstände heften kann, die verloren gehen könnten.
+Fahrprinzip wie beim Segway nur für jeden Fuß einen extra Schuh. Fahrdistanz und Batteriestatus über Bluetooth an Smartphone übertragbar
+Lebensrettende Anhänger für BHs, der die Herzfrequenz, Temperatur etc. misst und ans Smartphone überträgt, sowie Emergencycall
+Haarband das für den Blinden schaut und ihm über Earpice sagt, was derjenige sieht
+Sport-orientierte Smart-Watch für Jogger, Radfahrer und Sport Enthusiasten
+Messung von Druck auf Zehen, Ferse etc.
+Inliner, die an beliebigem Paar Schuhe befestigt werden können, verknüpft mit App
+Smartwatch mit auswechselbarer Batterie, die Kindern hilft die Uhrzeiten zu lernen
+Armband mit sleep Tracker
+Fitness-wearable für Wade, misst Geschwindigkeit, verbrannte Kalorien und zurückgelegte Strecke durch LED-Technik
+Clip kann überall an Kleidung befestigt werden und misst Körperdaten (Temperatur, Herzfrequenz,…), sendet diese via Bluetooth an Smartphone
+Smartwatch mit besonders langer Akkulaufzeit kann kabellos geladen werden
+Sensoren überwachen Muskelaktivität und Bewegungen in der Wirbelsäule
+Sensoren in Tshirt messen Körpertemperatur, Herzfrequenz,… und sendet Daten an Smartphone
+Alkoholsensoren können Alkoholpegel durch die Haut messen, außerdem werden ungewöhnliche Schwankungen in Laune und Hautgegebenheit gemessen, überträgt Daten an Smartphone
+Regenschirm verbindet sich mit AccuWeather und leuchtet blau wenn Regen vorhergesagt wird
+Tracker, der am Knöchel getragen wird und wird vor allem bei Patienten mit ungewöhnlicher Gangart oder Krankheiten wie Parkinson verwendet um Gang zu analysieren
+Antenne bildet eigenes Netzwerk, um Zugang zu Internet immer und überall zu gewährleisten
+Tracker kann z.B. Schwimmbewegungen oder Pedaltritte messen und sendet Daten an Smartphone
+künstliche Wimpern können Bewegungen erkennen
+Sensoren in "Tattoo" messen Körpertemperatur
+Aufkleber, kann auf Hals angebracht werden und soll Sprachqualität verbessern und Lügen aufdecken
+Gerät wird auf Rücken geklebt und misst Winkel um festzustellen ob Träger sitzt/liegt/steht, vibriert wenn Haltungsfehler erkannt wird
+Analoge Uhr mit Sensoren, die Herzschlag und Schlaf überwachen, auch Informationen über den Sauerstoffgehalt im Blut
+Tracker kann an Gegenständen angebracht werden (Schlüssel), um diese zu lokalisierenn, Alarm wird ausgegeben wenn sich der Gegenstand zu weit weg befindet
+Armband erkennt Muskelaktivität des Arms und übersetzt diese in gesprochene Sprache, gibt sie aus
+Wearable misst UV-Belastung des Körpers, und gibt Informationen über den Vitamin D Haushalt aus
+Wearable nimmt Atemzüge wahr und erkennt darin Satzstrukturen, gibt diese wieder
+Nikotin-Patches, die auf die Haut geklebt werden können und bei Verlangen nach Zigarette Nikotin in den Körper pumpen
+Sensor kann in Frottearmband gelegt werden und verbindet sich mit Wecker wenn sich der Träger nachts bewegt, somit ist ein sanftes Aufwecken zur besten Zeit möglich
+Wearable Band entsperrt Smartphone wenn es in der Hand gehalten wird
+Ball mit Sensor ermöglicht Analyse eines Schusses auf Smartphone
+Bikini und Handtuch mit UV-Sensor, der vor Sonnenbrand warnt, Sensor der warnt wenn sich die Kinder zu weit entfernen oder zu großer UV-Strahlung ausgesetzt sind
+Weste simuliert Schläge, Treffer und Explosionen am Körper
+Tracker alarmiert Eltern, wenn sich Kinder außerhalb einer festgelegten Umgebung befinden
+Sensor am Tennisschläger misst Schwunggeschwindigkeit des Spielers und Tempo um den Spin zu bestimmen, zeichnet auf wo genau der Ball auf dem Schläger aufkommt
+Tattoo misst Laktat-Gehalt des Schweißes, auch Speicherung von Strom dadurch möglich
+Brille zeigt dem Piloten während des Flugs wie Landschaft unten aussieht, gibt Informationen zu Wetter
+Baseballcap verbindet sich mit Smartphone und ermöglicht telefonieren, Musik hören, Nachrichten schreiben,…
+Armband/ Haarband, dass den Eltern meldet, wenn ihr Kind in Kontakt mit Wasser gekommen ist (Schwimmbad)
+Headset schaltet sich automatisch aus, wenn die beiden Stöpsel zusammengehalten werden (magnetisch)
+Klappdisplay simuliert einen 80-Zoll-Display, der sich in drei Metern Entfernung befindet
+Brille zeigt aktuelle Nachrichten, Emails oder Statusupdates an
+Unabhängige Spielekonsole eingebaut in Brille
+Implantat misst den Augeninnendruck (Anwendung zb bei Patienten mit Glaukomen), wird vor die Linse eingesetzt
+Wearable wird an Gürtel geklemmt und speichert Daten des Golfspiels, sodass Tendenzen und Verbesserungen erkennbar werden
+Sensoren in einer Jacke bringen LEDs zum Leuchten, wenn sich ein Auto dem Träger nähert
+Wearable kann an Arm des Patienten angebracht werden und vor ungewöhnlichen Veränderungen bzgl. Seines Gesundheitszustands warnen
+Zahnschutz hat große Einwirkung auf Gleichgewichtspunkt im Gehirn
+Smartwatch kann Songtitel (aus Hintergrund/ Umfeld) anzeigen
+Fitness Wearable kann zwischen den einzelnen Bewegungen unterscheiden
+Sensoren lesen elektrische Impulse und geben Informationen über die Gehirnaktivität weiter an Smartphone/ Tablet/…
+Sensor kann Krankheiten wie Diabetes oder Bluthochdruck durch Biomarker erkennen
+Wearable wird um Fessel gelegt und überwacht Schlaf, kann Alarme ausgeben
+Tracker speichert Daten über Rauchen, zeigt an wo meistens geraucht wird,…
+Gürtel ist mit Sensoren ausgestattet, die messen ob eine Person in Gefahr ist, zu fallen, dann öffnet sich ggf. ein Airback um den Sturz abzufedern
+Sensoren auf oder sogar unter der Haut sollen über Korperwärme oder Blutfluss zukünftig die Akkulebenszeit von Wearables deutlich erhöhen
+Über Bluetooth können die als Kette tragbaren Kopfhörer as Freisprechfunktion für das Smartphone genutzt werden. Bluettoth 3.0 im Einsatz.
+ZenWatch mit Mikrofon und Biosensor, ferngesteuertes Entsperren von Smartphone und Tablet
+Smarte Essstäbchen sollen verseuchte Lebensmittel erkennnen, PH-Wert von Wasser, Temperatur und Gehalt von Zucker in Früchten bestimmen können.
+Fahrradhandschuhe, die wie ein Blinker funktionieren und bei ausgestrecktem Arm Blinksingnale aussenden
+Sport BH, der die Herzfrequenz, zurückgelegte Strecke, Zeit etc. misst. Bluettoth Verbindung zum Smartphone
+Fitnessarmband von Toshiba mit langlebigen Akku
+Smarter Schmuck für Frauen, der nur die wichtigen Anrufe anzeigt und Frauen den Alltag erleichtern soll, vor Sonnebrand warnen etc.
+Smarte Uhr misst Schlaf und Bewegung
+Entspannung über Stirnband, dass über eine App gesteuert wird und EEG Sensoren hat, sowie über eine App gesteuert wird
+verschiedene Wearables vorgestellt
+Sensoren in Tatoos oder der Unterschwäsche sollen zukünftig über den Schweiß Strom erzeugen können
+Rückengurt, der bei falscher Haltung anfängt zu vibrieren.
+Armband mit Touchscreen, dass sich dem eigenem Style anpassen lässt
+Sneosren in Tatoos oder der Unterschwäsche sollen zukünftig über den Schweiß Strom erzeugen können
+In das T-Shirt eingearbeitete Elektroden messen den Herzschlag und könne per Bluetooth oder WLAN an eine Cloud-Bases Database übertragen werden und im Notfall direkt einen Arzt kontaktieren.
+Uhr trackt den Träger und kann seine Position per SMS an 3. weitergeben, als Unterstützung  bei der Betreuung von Kindern und Alten gedacht, telfeongespräch an eine fest definierte Nummer möglich
+T-Shirt das über biometrische Silberfasern Puls, Atemfreuquenz, Schrittanzahl etc. messen kann
+Smartes EEG-Messgerät, verbindet sich direkt mit Laptop/ Tablet
+Swatch entwickelt Smartwatch (Swatch Touch) zur Fitnessüberwachung
+Pflaster wird in die Achsel geklebt und misst dort ständig Körpertemperatur, Werte werden an Tablet/ Laptop geleitet
+Armband mit Display und Bedienknöpfen, auf dem man Tetris spielen kann
+Faltbare Mini-Drohne kann um Handgelenk getragen werden und bei Bedarf abheben kann und Fotos vom Träger schießen kann
+Ring mit LED-Touchscreen und Benachrichtigungs-LED zeigt Nachrichten an
+Wearable wird mit Magentverschluss an Handgelenk befestigt, braucht keinen Strom. Verbindung mit NFC mit Smartphone, zahlreiche Funktionen wie Notrufe
+GPS-Tracker kann an Haustier befestigt werden, es kann ein Bereich festgelegt werden, in dem sich das Tier bewegen kann, wenn es diesen verlässt wird Alarm ausgegeben
+Laserpointerhalsband imitiert Gegenstand nach dem gesucht werden soll (praktisch nicht möglich) und hält Haustiere so auf Trab
+Google Glass überwacht Puls und Atmung
+Tracker misst Daten auf Basis der Herzfrequenz (z.B. Activity-Level, Stresspegel)
+Smartwatch kommt ohne Verknüpfung zu Smartphone aus, Sprachsteuerung möglich
+Regenschirm besteht nur aus "Stab", der oben einen starken Luftstrom ausströmt, um den Regen "wegzublasen"
+T-Shirt mit Sensor misst Körpertemperatur und hält diese auf einem gesunden Niveau (wärmt sich ggf. auf)
+Clip kann an Kleidung (z.B. von Kleinkindern) befestigt werden und zeigt den Eltern auf Smartphone an wo sich das Kind gerade befindet
+Neurostimulator kann Tremor-Patienten helfen
+Kamera kann am Kopf getragen werden und ermöglicht Rundumblick, außerdem ist sie wasserfest und bis zu einer Wassertiefe von 30 feet benutzbar
+Halsband, speziell für Hunde gibt Informationen zu seinem Gesundheitszustand
+Smartwatch (i'm watch) soll Smartphone ersetzen, ermöglicht networking, telefonieren,…
+Tragbarer Internet-Hotspot, über den bis zu 8 Personen Zugang zum Internet haben
+Armband erkennt Identität des Trägers anhand eines EKG-Abgleichs mit bereits vorhandenen Daten
+Health-Monitor kann Gesundheitszustand eines Patienten innerhalb von 20 Sekunden bestimmen (auch Blutdruckmessung ist möglich), Sprachsteuerung
+Shorts mit Sensoren messen Muskelaktivität des Trägers, Daten werden an Smartphone übertragen, Audio-coaching-platform soll entwickelt werden
+Smarter Helm misst Herzfrequenz des Trägers
+Armband erkennt Gesten des Trägers , damit kann Smartphone gesteuert werden
+Pebble Smartwatch kann nächtliche Krämpfe messen
+Eine Art Seilzug für Sehnen in der Hand und im Unterarm ermöglicht Patienten mit Lähmungen eine normale Nutzung ihrer Hände
+Medaillon kann um Hals getragen werden und erhält Daten von sozialen Netzwerken in denen der Träger aktiv ist
+Patch kann auf Haut geklebt werden, bei Veränderungen der Körpertemperatur verändert sich auch die Farbe des Pflasters
+Wristify: Smartes Armband, das als "Klimaanlage" für das Handgelenk des Trägers fungiert
+Smartwatch als "Bitcoin-Geldbörse", macht Bezahlungen möglich
+Smarte Brille besteht aus zwei Gläsern, ein bewegliches Glas kann mittels Drehknopf gesteuert werden, sodass situationsabhängig die beste Sicht ermöglicht wird
+Fitnessarmband von Microsoft mit GPS (muss nicht mit Smartphone verbunden sein), auch Anrufe lassen sich steuern
+Person schluckt Nanopartikel, die sich dann im Blut ansiedeln und Daten , im Idealfall haften sie sich an Krebszellen, Veränderungen werden einem Armband gemeldet
+LifeVest wird am Körper getragen und erkennt Herzrythmus, bei gefährlichen Veränderungen wird der Patient informiert, auch Gel wird auf Körper gebracht um Behandlungsschock auszulösen
+Misst Schläge, denen der Spieler ausgesetzt ist und meldet Alarm beim Trainer, wenn Gefahr einer Hirnschädigung besteht
+runScribe wird an Laufschuh befestigt und liefert genaue Daten über die Fußbewegungen des Läufers
+Kopfband mit zwei Sensoren, die für 20 Minuten täglich Gehirnaktivitäten stimulieren
+smarte cap sammelt Informationen über Gesundheitszustand des Trägers und leitet diese via Bluetooth an Smartphone
+Sensor an einem Gürtel macht Träger auf schlechte Körperhaltung aufmerksam und kann Rückenschmerzen damit vorbeugen
+Wearable Baby-Monitor, der den Schlaf des Babys überwacht und Daten an Smartphone der Eltern überträgt
+Vigo: Wearable wird am Ohr angebracht und kann Gesundheit des Trägers analysieren indem Daten wie beispielsweise das Blinzeln, und Bewegungen ausgewertet werden, bei Bedarf vibriert es (oder LED-Lichter) zur Aufmunterung
+smarte Geldbörse mit "Finde-App", die auch als Zahlungshilfe und Chip-Karte für Eingänge benutzt werden kann, mit "Panik-Knopf"
+Person kann Ganzkörperanzug tragen, der als Bett verwendet wird
+Tattoo aus Biosensoren analysiert Schweiß des Trägers, indem chemische Bestandteile gemessen werden
+Ring erkennt Gesten des trägers und ermöglicht so die Steuerung von dessen Smartphone
+Pflaster mit Sensoren überwacht Gesundheitszustand des Trägers, Daten werden an Cloud gesendet, besonders geeignet für Patienten mit chronischen Lähmungen
+Sensor im Ohr misst Herzfrequenz, Sauerstoffversorgung, Blutdruck,…
+Wearable in Hosentasche wandelt kinetische in elektrische Energie um und lädt damit Handy auf
+Armband wird als Smartwatch genutzt, beim Telefonieren kann das Armband zum Hörer werden
+Sonnenbrille ist mit Solarzelle ausgerüstet, die den Strom liefert, damit wird ein Bluetoothmodul betrieben, das verbunden mit dem Smartphone immer den Ort der Brille erkennt
+Kofferschloss ist mit Smartphone verbunden und liefert Informationen zum Ort des Koffers und zur zurückgelegten Strecke
+Smartes Armband von Intel mit Kalender- und Erinnerungsfunktion
+Fruchtbarkeitsmessgerät gibt auf Basis der Körpertemperatur Auskunft, ob Frau (nicht) fruchtbar ist, keine Verbindung zu Smartphone erforderlich
+stromsparendes Fitness-Armband misst Merkmale des Trägers durch bioelektrischer Impedanzanalyse mittels Metallscheiben an der Innenseite (Sauerstoffgehalt im Blut, Leitfähigkeit der Haut,..)
+Smartwatch überwacht Bewegungen des Kindes im Bauch, und gibt verbrauchte Kalorien an
+Stoff ist mit Sensoren versehen, und kann überall angebracht werden
+Sensoren im Schuh können duch dreimaliges Fersenklatschen aktiviert werden, mittels der dazugehörigen App kann ein Taxi gerufen werden/ Pizza bestellt werden/…
+Pille mit Chip kann geschluckt werden, dieser Chip aktiviert Signal im Körper, durch welches sich ein Smartphone entsperren lassen kann
+Drohne kann mit Smartphone gesteuert werden, wenn der Abstand zu groß wird landet sie automatisch, es können GPS-Daten eingegeben werden, die angesteuert werden sollen
+Chip (für Schlüsselbund) kann an Smartphone gesteckt werden und lädt dessen Akku auf
+Activity Tracker misst verbrauchte Kalorien, zurückgelegte Strecke,… . Verfügt auch über einen Notfallknopf, mit dem Freunde/ Familie über den Notfall informiert werden können
+Gürtel, in dessen Schnalle sich ein Akku und ein dazugehöriges Kabel befindet
+Sensor am Basketball und Sensor am Korb, senden Daten über die dazugehörige App an Smartphone, Erfolgsstatistiken können erstellt werden
+Smarter Sport-BH, misst Herzfrequenz, benötigt wird ein Herzfrequenzmonitor
+Wearable für Hunde, dass die Kommunikation zwischen Hunden und Menschen z.B. durch gezielte Vibrationen verbessert
+Wearable für Handgelenk, dass Lagertätigkeiten in der Logisik optimiert, ausgestattet mit Freisprech-Funktion
+Xmetrics: spezieller Activity-Tracker für Schwimmer, kann am Hinterkopf getragen werden, Daten werden gespeichert (Zeit pro Bahn, Anzahl der Züge,…) und können direkt ausgewertet werden
+Armband schließt mittels Daten über Laufgeschwindigkeit, Armschwung etc. auf Gehhaltung des Trägers
+Band wird an Kopf getragen und misst durch Sensoren am Vorderkopf und an den Ohren Hirnströme, erstellt EEG
+Smartes Kinesio-Tape, kann am Rücken getragen werden und unterstützt Muskeln
+elektronisches "Gegengewicht" für Handgelenk führt zu Verbesserung der Feinmotorik, Träger können z.B. perfekte Kreise zeichnen
+Halskette nutzt Infrarotlicht der Kamera um Träger unkenntlich zu machen und ermöglicht so anonymen Chat
+Intelligentes Headphone ermöglicht dem Träger ausgewählt Gespräche auszublenden und nur ein bestimmtes zu verfolgen
+Headset kann von Blinden getragen werden und stellt ihnen die aktuelle Umwelt dar, hilft außerdem bei der Lokalisierung
+Katzenklo gibt Besitzer Auskunft über Gesundheitszustand der Katze
+Extrem elastische und dünne "Schicht", die auf die Haut geklebt wird und dort Schweiß und Temperatur misst
+Spezielles Wearable für Hunde analysiert deren Laute und Hirnströme und übersetzt in Englisch, Ausgabe mittels Lautsprecher
+Mouthguard für Footballer mit Sensoren analysiert Gebiss und damit Gehirnaktivitäten, leitet Informationen an Trainer weiter (Display)
+Durch dreimaliges Drücken auf Schmuck (Halskette, Clip für BH, etc.) wird ein Notruf ausgelöst, Smartphone verbindet sich mit Notrufzentrale
+Wocket bietet sicheres Aufbewahren von Kreditkartendaten, diese werden eingesteckt um elektronische Daten auszulesen und zu sichern
+Gabel mit Sensoren, die misst wie lange man isst, wie oft man die Gabel verwendet etc. Daten werden ausgewertet, bewussteres Essen wird gefördert
+Pflaster wird unter Arm aufgeklebt und misst Körpertemperatur des Trägers (Baby), Daten werden an Smartphone übertragen, Eltern können Entwicklung der Temperatur 24h lang verfolgen
+Snowboard ist mit Sensoren ausgestattet, die die Gewichtsverteilung des Nutzers messen und analysieren, die Daten werden an Smartphone weitergeleitet
+Activity Tracker speichert Bewegungsdaten von Kindern, Eltern können sehen ob und wie viel sich ihr Kind am Tag bewegt hat
+Kleiner Chip wird an Gürtel befestigt und misst die Sprunghöhe, Daten dazu können anschließend auf Smartphone eingesehen und analysiert werden
+Stoff mit Sensoren kann in Kleidung gewebt werden und dort Bewegungen und Körperdaten messen
+Musik hören durch Mütze mit integrierten Lautsprechern
+Uhrenarmband ("e-strap") macht Uhr zu Smartwatch
+Wearable ermöglicht (sicheres) Bezahlen
+Armband projektiert Display auf Unterarm, kann durch Fingerdruck genutzt werden wie ein normales Smartphone
+Fitnesstracker kann in vielen Sportarten indiviuell eingesetzt werden (Schwimmen, Laufen, Golf,…) und misst sportartspezifisch relevante Daten
+Sensoren tracken Training des Nutzers und unterstützen durch Sprachfeedback oder Musik
+Sensoren im Fahrradhelm erkennen genauen Standort und übermitteln diesen an Volvo-App, wenn sich Autofahrer und Fahrradfahrer zu nahe kommen blinkt der Helm und dem Autofahrer erscheint eine Warnung
+Tracker (Größe wie Knopfzellenbatterie) wird an Kleidung geclip und misst Vitalwerte des Körpers, kann auch im Schlaf getragen werden und ist wasserfest
+Schuhe visualisieren Bewegungen durch LED-Lichter
+Smartwatch sammelt Daten über Basketballspieler (Trefferquote von verschiedenen Positionen aus, Fitnessdaten, etc.), auf einer App sind diese abrufbar
+Smartwatch misst Stresslevel des Trägers
+Socken mit elektronischen Sensoren messen Geschwindigkeit und Gang des Trägers
+Gürtel fungiert als Fitness-Tracker und liefert Daten an Smartphone
+Uhr mit Schrittzähler und Sonderfunktionen für Golfer und Schwimmer
+Sensor am Golfschläger misst Daten zu Geschwindigkeit des Balles oder Blickwinkel des Spielers,…
+Skibrille liefert Daten, auf einem Smartphone werden z.B. Wetterinformationen, Aufenthaltshort, nahegelegene Hütten oder Points of Interest angezeigt
+mehrere: Armband misst UV-Belastung der Haut, Kette löst Notruf aus, Ring meldet Eingang einer Nachricht/ eines Anrufs, Kette zeigt Standorte auf
+Smartphone kann so gebogen werden, dass es als Armband am Hangelenk tragbar ist
+Durch Berührung der Extensions können Befehle an das Smarthone übermittelte werden
+Smartphone zeigt Verlauf des Blutzuckerspiegels an
+Optischer Sender für Wearables, der anhand einer Messung des Blutvolumens die Herzfrequenz überwacht, eignet sich besonders zur Pulsmessung am Handgelenk.
+Erfassung des Energie-Haushalts einer Person durch Sensoren in einem Shirt.
+Microchip in Koffer sendet Signal an Smartphone, wenn der eigene Koffer auf die Kofferausgabe am Flughafen gelegt wird bzw. wenn der Koffer geöffnet wird.
+Spezielles Garn (meist aus Silber) in Klamotten oder Tapes funktioniert als Chip und ermöglicht Gesundheitscheck des Trägers.
+Socken sind versehen mit Drucksensoren, die die Fußstellung beim Laufen aufzeichnen und vor möglichen Verletzungen warnen.
+Brille erkennt Gemütszustand des Gegenüber; Mikrofon erfasst Geräusche. Daten werden über Microsoft dann an den Träger der Brille gesendet.
+elektrische Impulse werden durch die Muskulatur der Beine gegeben und dirigieren so die Person mit einer verbundenen App zum gewünschten Zielort
+Smartglass mit vielen Funktionen für Sportler, wie Geschwindigkeit, Enfernung, Vergleich mit anderen Sportlern
+Smart Helm nimmt die Umgebungsbedingungen auf, Zweck. Qualitätskontrolle, Training
+Smarte Helme fürs Rad, Motorrad oder Wintersport
+Der Schuh ist mit einem hufeisenförmigen Display ausgestattet (elektronisches Papier), dass übers Smartphone angesteuert werden kann und auf Befehl seine Farbe/Musterung ändert. Smartphone und Schuh kommunizieren über den Standard Bluetooth Low Energy (LE). Steuerelektronik und Akku verbergen sich in der Sohle, die deshalb etwas dicker geraten ist. Der Akku wird drahtlos geladen.
+Rucksack/Tasche mit Bedienknopf fürs Handy. Damit lässt sich Freisprechung aktivieren, Fotos, Memos aufnehmen, Musiksteuerung. Verbindung über Bluetooth
+Die Smartwach Olio filtert die Nachrichten des Trägers nach Wichtigkeit. Die Uhr lernt welche Nachrichten von Bedeutung sind und passt sich demensprechend an. Sie ist über Sprachkomandos steuerbar und für Apps für iOS und Android kompatibel.
+Handschriftliches wird digitalisiert, Verbindung mit Tablet/ Smartphone via Bluetooth, hinterlegte Formeln werden direkt umgewandelt, integrierter Speicher
+Pflaster kann am Körper angebracht werden (wasserfest); misst Puls und Anstrengung für den Körper; Mess-Sytem für Langzeitverbesserungen
+Mütze mit Lautsprechern und Mikrofon verbindet sich mit Smartphone; telefonieren und Musik hören
+BH misst Herzfrequenz, Kalorienverbrauch, …
+Jeans und Jacken als Trackpad verwenden, so wird durch Berührung z.B. eine Anrufannahme möglich
+1-Cent-großes Element kann Handbewegungen und Gesten des Nutzers erkennen und leitet diese an Mobile Device weiter
+Sensor im Strampler erkennt Bewegungen/ Atemzüge des Babys, ist in der Lage Baby aufzuwecken, wenn die Gefahr besteht aus dem Bett zu fallen
+Device wird auf Smartphone gelegt und kann anhand des Fingerdrucks gesundheitliche Daten anzeigen (Herzfrequenz, Blutdruck, Körpertemperatur,…)
+kleiner Tag (passt in Hosentasche), kann auch an Schlüsseln befestigt werden, ermöglicht schnelles Auffinden von Personen bzw. Gegenständen
+Radarchips sollen Hand- und Fingerbewegungen erfassen und so Geräte und Apps berührungslos steuerbar machen, Kernstück ist ein kleiner Chip, der in z.B. in eine Smartwatch intergriert wird
+Wearble-Headset, dass über elektrische Impulse für Entspannung im Kopf sorgen soll. Verbunden mit dem Smartphone kann Atemfrequenz und weitere Gesundheitsparameter überprüft werden
+leitfähige Fasern werden in Stoffe eingewebt, die Jeans soll damit vor Gewichtszunahm warnen können und auch mit dem Smartphone interagieren können
+Wearable analysiert die Gehirnaktivität, Die Brille analysiert die Gehirnaktivität des Trägers mit Trockensensoren sowie Neurofeedback
+Wearable bietet neue Akkuladung für Smartphone (bis zu 80%)
+kleine "Box", die auf schmerzende Stelle am Körper gelegt werden kann und Linderung durch elektrische Stimulation verspricht, Anwendung für chronisch Kranke, Smartphone App als Unterstützung
+Berühmte Filmszenen (meist Autoszenen) können durch Tragen einer Brille nachgespielt werden, Instruktionen zur Rolle erscheinen auf Smartphone, Dialoge vor dem Auge
+Armband misst Stress des Trägers anhand von Herzfrequenzen und gibt Alarm und Maßnahmen zur Entspannung aus
+Chip kann Gesundheitszustand anhand von Schweiß messen
+Chip im Tennisschläger misst Bewegungen, Smartphone-App zeigt Ergebnisse an
+Sensor kann in Kleidung angebracht werden, misst Schweiß, Herzfrequenz und Körpertemperatur. Ergebnisse erscheinen auf Smartphone der Eltern
+Sensorpad wird an Arm befestigt und misst Flüssigkeits- und Salzhaushalt des Körpers, Ergebnisse werden zur Analyse an Gerät übertragen
+Smartwatch bietet private Cloud, zugänglich von Smartphones/ Tablets/ Laptops aus, auf denen die App installiert ist
+Pflaster mit UV-Sensoren können Belastung der Haut messen und auch giftige Gase erkennen
+Stirnband misst Bewegungen und Hirnwellen, wenn Person im REM-Schlaf ist spielt Smartphone Sound ab, smarter Wecker
+Smartwatch kann mit Handbewegungen (ohne Berührung der Uhr) gesteuert werden, Sensor erkennt Muskelbewegungen
+Smarte Kontaktlinsen (ausgestattet mit Wireless-Chip und Sensor) können Blutzuckerspiegel von Diabetikern messen
+Wearables für Hunde messen dessen Bewegungen, Gesundheitszustand und zeigen die aktuelle Position an
+Wearable wird am Kopf getragen, Person kann durch "Vibes" beeinflusst werden (zur Beruhigung oder Aufmunterung), Verknüpfung mit Smartphone
+Armband führt Träger mit Sprachhinweisen nach Hause und erinnert z.B. an die Einnahme von Medikamenten
+Pflaster mit Sensoren messen Hautbeschaffenheit und dienen als Anti-Aging-Produkt (mildern Falten)
+"Haarband" stimuliert den Drillingsnerv um Migräne zu mildern
+Modul (kann an Gürtel oder in spezieller Unterwäsche angebracht werden) sendet Ultraschallimpulse im Unterleib aus und meldet Signal an Smartphone, wenn Träger auf Toilette gehen sollte
+Wearable wird als Ohrclip getragen und stimuliert Nerven bei Aktivierung dahingehend, den Blutverlust bei offenen Wunden zu verlangsamen
+Sensoren in einem elastischen Bauchgurt messen Gesundheitszustand der Schwangeren und des Babys, Übertragung an tragbaren Monitor
+Tracker ermöglicht Lokalisierung von Kindern, "Anrufen" des Trackers ist möglich, wenn Gespräch nicht angenommen wird Mikrofon automatisch eingeschalten
+Armband sendet elektromagnetische Wellen an den Körper aus, um Blutfluss zu optimieren und Entzündungen zu verhindern
+Bandage mildert Schmerzen durch Aussenden von Impulsen
+Beliebig veränderbare Spielsachen (Wearables) für Kinder, speziell Mädchen
+Chip wird innen an Armband (Uhr)  befestigt, Uhr fungiert dann als Smartwatch (Verbindung zu Smartphone und Aussenden von Lichtsignalen und Vibrationen)
+Digitales "Tattoo" nutzt NFC, um Smartphone zu entriegeln
+Kinder können durch smarte Spielsachen (Originaltöne, Lichte und spürbare Signale) in die Rollen von Disney-Figuren schlüpfen, neue Aufgaben können am Smartphone heruntergeladen werden
+Live-Audioumfeld kann mit drahtlosen in-Ear-Kopfhörern und zugehöriger App individuell angepasst werden
+Smartes Armband sendet Alarme (durch Vibrationen), wenn Meeting ansteht oder eine neue Nachricht empfangen wurde (dabei können Filter angelegt werden)
+Brille ermöglicht 210 Grad - Sicht für Träger und realitätsnahes Gaming
+Brille kann durch Handbewegungen oder einfachen Anweisungen Blickwinkel auf Spiel anpassen
+Handschuhe ermöglichen Menschen mit eingeschränkter Mobilität Handbewegungen (z.B. Greifen und Aufheben)
+Boxershorts aus speziellem silberhaltigen Material halten Handystrahlungen ab
+Armband speichert Geräusche nach Berührung der Oberfläche und sendet diese via Bluetooth an Smartphone
+Armband beeinflusst Wohlbefinden durch spürbare Kicks, Rythmuss lässt sich steuern und beeinflusst so die Stimmung des Trägers
+Wasserflasche ist mit App verbunden, die Gesundheitszustand überwacht, und analysiert welche Nährstoffe dem Wasser zugefügt werden müssen
+Fotos oder Videos können geteilt werden und erscheinen für alle Nutzer auf dem Bloomdisplay, Videotelefonie durch Bloomapp möglich, Health-Überwachung durch wearable Bloomband
+Rift Headset (auch geeignet für Brillenträger, kann Sehstärke individuell anpassen), auch die Kopfhörer sind austauschbar
+Ring ermöglicht senden von Nachrichten per Fingertipp
+Bikini ist ausgestattet mit wasserfestem Sensor, der die UV-Belastung zeigt, misst die Zeit, die der Träger in der Sonne verbracht hat. Sendet Alarm an Smartphone wenn Sonnenbrandgefahr besteht
+Krawatte mit Transmitter hat Zugang zum Heim-Wlan und dient als Hotspot (begrenzte Reichweite). "Nutzen": Kinder werden dadurch gezwungen, sich in der Nähe der Krawatte aufzuhalten um Zugang zum Wlan zu haben
+Headset misst Herzfrequenz, komplett kabellos, Bluetoothverbindung zu Smartphone ermöglicht streamen von Musik
+Wearable sammelt Gesundheitsdaten des Patienten, Ärzte sollen davon profitieren
+Headset misst Gehirnströme und  kann dadurch Konzentrationslevels messen und den Schlaf verbessern
+Patch misst Blutzucker und versorgt Patient mit Insulin wenn nötig
+Brille ermöglicht schnelles und sicheres Boarding durch Anweisungen
+Armband gibt Elektroschocks ab, um den Träger auf schlechte Gewohnheiten aufmerksam
+Handschuh lindert Zucken und ermöglicht Parkinsonpatienten "normalen" Alltag
+Wearable kann aus Bewegung Energie gewinnen (zeigt die Menge und verbrauchte Kalorien an), und ermöglicht Laden des Handys
+Sensoren überwachen Schlafzimmer (Temperatur/ Licht/..) und Schlaf durch Sensor am Kopfkissen
+Handschuh ermöglicht Formen von Holz/ Steinen
+Leitfähige Faserfarben/ Tinte, speziell für Sportartikel, fungiert als Pulsmesser/ Muskelsensor
+Lenovo entwickelt smarte Schuhe, die als Fitnesstracker funktionieren, außerdem vibrieren sie wenn Freunde in der Nähe sind und zeigen anhand von LEDs die Stimmung des Trägers an
+Smartwatch zählt Punkte beim Tennis mit Sprachausgabe und Ausgabe eines Rankings
+Display (extrem flexibel und flach) kann als Kleid getragen werden, ist individuell veränderbar
+Kamera nimmt auf was sich vor der Person abspielt und sendet elektronische Impulse an einen Sensor auf dessen Zunge, dieser "meldet" dem Gehirn Bilder und es kommt zu einer Reaktion
+Display wird als Kette getragen, ermöglicht Abspielen von Videos und Spielen
+T-Shirt als EKG-Messer, LED-Technologie soll mit eingebaut werden, um dem Träger direktes Feedback geben zu können
+Biometrische Sensoren an Fahrrad überwachen Vitalwerte des Fahrers und, Alarm wenn Schlaglöcher auf dem Weg sind
+Transaktionen können mittels Wearable und dessen Verbindung zu Smartphone einfach durchgeführt werden
+Fleecejacke mit 19 verschiedenen Funktionen (z.B. RFID-Sperrsystem für Jackentasche um Kreditkarten sicher zu verstauen)
+Sensoren am Golfschläger, die Schläge und Umgebung analysieren
+Sonnenbrille mit integrierter Kamera und Sensoren, die Daten messen (Beschleunigungs- und Höhenmesser)
+Mittels Blutanalyse kann festgestellt werden, ob der Patient eine sexuell übertragbare Krankheit hat (Finger wird mit kleine Nadel kurz angestochen)
+Rucksack mit Elektroden, diese führen zum Gehirn und greifen Krebszellen an, ein Tumorwachstum wird gestoppt
+Patent von Samsung: Zahlung soll durch bestimmte Handbewegung autorisiert werden. Anhand von Persönlichkeitsmerkmalen wird der Träger der Uhr erkannt. Nach der Identifikation kann der Zahlungsvorgang durch Ballen der Faust ausgelöst werden.
+Kleines Wearable, kann z.B. an Hose befestigt werden und verfügt über zahlreiche Funktionen (UV- und Bluetooth-Sensoren,..).
+Armband mit Sleep Tracker, meldet einkommende Nachrichten und Anrufe
+Spezielles Material im Schuh ermöglicht ständig wechselndes Aussehen durch Auswählen eines Designs in einer App am Smartphone.
+Läufer können ihren Laufstil, ihre Lauftechnik oder andere Werte einsehen und analysieren. Werte stammen von Sensoren, die einfach im Schuh angebracht werden können.
+Headset misst Pulsschlag beim Sport, virtueller Coach motiviert zum Sport
+Wearable-Tech mit Bewegungssensoren für Kinder ermöglichen interaktives Spielen
+Armband ("Doppel") gibt Vibrationen aus und beeinflusst so die Laune des Trägers
+Wearable wird bei Wimbledon-Turnier getestet, Sensoren sollen Emotionen der Zuschauer messen und Rückschlüsse auf Reaktionen des gesamten Publikums ermöglichen.
+Luxusuhr (Breitling) mit eingebauter Emergency-Funktion, basierend auf Beacons
+Kleiner Sensor misst Luftverschmutzung, entwickelt wird eine App, anhand derer man die Werte einsehen kann.
+Airbag ist in einem Armband gehüllt um den Arm geschnallt und löst nach einem Knopfdruck aus, die Luft hält bis zu 40 Std im Airbag. Die CO2 Patrone füllt den Airbag. Außerdem ist der Airbag mehrmals verwendbar, die Luft kann ausgetauscht werden-
+Tshirt mit Bluetoothmodul, welches mit Sensoren im Stoff verknüpft ist. Diese messen Vitaldaten (Puls, Atemfrequenz, verbrannte Kalorien). Auch in der Nacht werden Daten aufgezeichnet. Ausgewerten kann man die Daten mittels einer App für Smartphones.
+Leitende Plättchen für Daumen und Handfläche, die Datenaustausch zwischen Trägern durch Händeschütteln ermöglichen. Außerdem können Türen dadurch geöffnet werden oder Zahlungen abgewickelt werden. Auch der Gesundheitszustand des Trägers wird überwacht.
+Freundschaftsarmband speziell für Mädchen soll sie zum Programmieren anregen, selbstprogrammierte Tools können über eine Platform auf die Armbänder übertragen werden
+Nanodraht kann beispielsweise am Arm angebracht werden und passt sich dem Körper direkt an, durch Wärmeleitung können chronische Krankheiten behandelt werden
+mehrere: Schuheinlagen für Läufer/ Spezielle "Sohlen" die auf die Schuhsohlen geklebt werden/ Clips für Klamotten/… ; alle zeichnen Bewegungsdaten (und Gesundheitsdaten) auf und leiten diese an Smartphone weiter
+Design des Armbands kann über App gesteuert werden
+Sneakers haben eingebauten Bluetooth-Chip und dienen als Fitness-Tracker, Übertragung auf Smartphone App
+Fitnesstracker mit speziellen Funktionen für Läufer und Boxer (Tracker erkennt Unterschied zwischen Schlägen/ Haken/…)
+Brille schluckt Blaulicht von Bildschirmen und schont so die Augen,  vermindert damit Kopfschmerzen und sorgt für besseren Schlaf
+Brille erkennt Sichtfeld des Trägers und wandelt optische Signale in Audio-Signale um
+Handschuhe erkennen Krümmung der Finger und wandeln diese um in Buchstaben auf einen Bildschirm. Gehörlose sollen so mit Menschen kommunizieren können, die nicht die Gebärdensprache beherrschen
+Smartphone kann als Armband am Arm getragen werde, ist komplett wasserdicht und mit gestenorientierter Benutzeroberfläche ausgestattet
+Kleiner Clip kann beispielsweise an BH/ Kleidung/ Tasche angebracht werden und ist ggf. mit Smartphone verbunden. Bietet verschiedene Tools, die speziell Sicherheit für Frauen gewährleisten sollen. Es werden z.B. Alarme an Bekannte gesendet, falls die Trägerin nicht wie errechnet am Ziel ankommt.
+Durch Fingerdruck (wie Mauspad) messen Laser den Blutzuckerspiegel der jeweiligen Person
+Je ein Sensor ist an Schuhen angebracht und misst Zeit, die der Fuß in der Luft ist und die Zeit, die zum Auftreten auf den Boden gebraucht wird, kann über die Ausgegelichenheit des Gangs einer Person informieren
+Armband mit integrierter CO2-Patrone löst auf Knopfdruck Airbag aus und sichert Träger so vor Ertrinken in Gewässern
+Smarter Display kann an normale Uhr geklemmt werden und projektiert Smartphonebildschirm auf das Brillenglas.
+Armband, das von der schwangeren Frau und ihrem Partner getragen wird. Sobald die Frau spürt, dass sich das Baby in ihrem Bauch bewegt werden die Bewegungen durch einen Knopfdruck an ihrem Armband auch für den Partner spürbar,.
+Tracker für Hunde, der dem Besitzer Informationen zur Fitness des Hundes und seinen Aktivitäten liefert
+Tracker, der die Luftqualität misst (indoot und outdoor) und Informationen darüber an Smartphone weiterleitet
+Sensor ist am Handschuh eines Golfers befestigt und sendet Informationen über die Schläge direkt an dessen Smartphone weiter
+Armbänder können so eingestellt werden, dass sie vibrieren wenn Freunde in der Nähe sind, außerdem ermöglicht die direkte Verknüpfung mit deren Smartphones eine Übertragung via Bluetooth
+GMR ("Guardian Mentor Remote") besteht aus Headset und einer Brille. Dadurch wird ein Austausch zwischen Experten und Monteuren ermöglicht.
+Sensoren sind in Boxhandschuhen oder auch in den Boxsäcken. Diese zeichnen die Schlagkraft oder Schnelligkeit des Boxers auf. Die erhobenen Daten können über eine Smartphone-App abgerufen werden.
+Eine spezielle Brille kann bei AMD-Patienten eingesetzt werden. Diese ist mit einer kleinen Kamera ausgestattet welche Signale zu den noch intakten Zellen auf der Netzhaut sendet. Dadurch wird das Sichtfeld des Trägers wahrgenommen.
+Smartphone wird mit einer VirtualReality-Brille verbunden. Den Trägern wird dann ihre Umgebung direkt vor den Augen auf der Brille angezeigt.
+Spezielle Smartwatch für Blinde. Diese koppelt sich via Blutooth beispielweise mit dem Smartphone. Eingehende (Sprach)-Nachrichten werden empfangen. Die Uhr basiert auf haptischen Signalen, je nach Nachricht werden die "Buchstaben" der Braille-Schrift auf der Uhr ertastbar.
+Virtual-Reality Brille, welche ein gemeinsames Schauen von Filmen oder Unterhalten ermöglicht und so soziale Komponenten mit berücksichtigt.
+Die verbesserte VR-Brille erzeugt pro Auge nur noch ein Bild und ermöglicht ein natürlicheres 3D-Umfeld. Dadurch werden Übelkeits- und Ermüdungserscheinungen eingedämmt.
+Aria ist ein Zusatzgerät, welches aus zwei Sensoren besteht und einfach an ein Armband (einer Smartwatch) gesteckt werden kann. Die Sensoren erkennen die Bewegungen der Fingersehnen im Unterarm und setzen diese in Steuerungsbefehle um.
+Taschenradar erkennt beispielsweise ob der Träger Daumen und Zeigefinger berührt (wie bei Knopfdruck) oder Fingerspitzen aneinanderreibt (Lautstärkeregelung) und steuert damit ein mobiles Endgerät.
+In-Ear Headset misst die Temperatur und ermöglicht die Überwachung des Eisprungs bei Frauen.
+Biosensoren können auf Haut "geklebt" werden und auch bei Outdoor-Sport beispielsweise getragen werden. Durch die Bewegungen im Unterarm können Geräte gesteuert werden.
+Sensor wird am Brustkorb getragen und misst den ganzen Tag über Daten wie z.B. Stresslevel, Körpertemperatur, … um Rückschlüsse auf den Gesundheitszustand des Trägers zu ermöglichen-
+Das Armband gibt thermoelektrische Signale aus und kann so das Wärme-/Kältegefühl einer Person in einem Raum beeinflussen.
+Wasserfester Sensor wird an Kleidung befestigt. Gemessen werden der Vitamin B- und der Vitamin D - Haushalt des Trägers. Dem Träger wird außerdem angezeigt wielange er sich noch in der Sonne aufhalten kann bevor er Gefahr läuft sich zu verbrennen.
+Beckenbewegungen von Frauen werden per Bluetooth an Smartphone weitergeleitet und ermöglichen so Steuerung von Videospielen. Entwickelt wurde der Dildo-Controller, um die Beckenbodenmuskulatur nach einer Entbindung zu stärken.
+Eine Art Silikontattoo ("iSkin") wird auf der Haut angebracht, die darauf befindlichen Drucksensoren können als Controller für mobile Endgeräte dienen.
+Berührungsloses Zahlen wird durch Armband möglich. Dieses kann Zahlungsaufforderungen anhand des einzigartigen Herzschlags einer Person authentifizieren.
+Smarter Ehering vibriert wenn der Ehepartner eine Nachricht geschrieben hat.
+Sensoren können theoretisch überall am Körper getragen werden und zeichnen das Training des Trägers auf. Dadurch wird dessen Training optimiert und überwachbar.
+Tracker für den Arm zählt z.B. Runden beim Schwimmen, wasserdicht bis zu einer Wassertiefe von 50m, erkennt an Land welcher Aktivität nachgegangen wird. Über Nacht fungiert er als Tracker für das Schlafverhalten des Trägers.
+Mehrere: Drohne kann an Arm getragen werden und fungiert als Kompass, Drohne als Filter bei zu schlechter Luftqualität kann an Schulter getragen werden, Drohne als Regenschirm, Drohne zum Klettern
+Smartes T-Shirt, welches das Training durch gezieltes Fördern des Blutflusses unterstützt
+Spezieller Fitnesstracker für Menschen im Rollstuhl. Dieser misst Daten, die speziell für Rollstuhlfahrer interessant sind (Beschleunigung, Geschwindigkeit, Fahrlage)
+Fitnessclip zeichnet Bewegungen auf. Je nach Fleiß des Trägers werden beispielweise Coupons für ausgewählte Supermärkte in der Umgebung freigeschalten.
+Gesundheitstracker werden auf Körper (Rücken) angebracht und überwachen Bewegungen. Angewandt wird das System in den Hotels der Crown-Kette in Melbourne, wo die Angestellten mit den Trackern ausgestattet sind.
+Extrem kleiner Gas-Sensor, welcher aufgrund seiner Größe leicht in Smartphones o.ä. eingebaut werden kann und die Luftqualität misst.
+Display-Wearable ist so flexibel dass es als Armband getragen werden kann, soll 2016 auf den Markt kommen
+Set besteht aus zwei Komponenten, zum Einen trägt der Patient Sensoren am Körper. Dazu gibt es eine Software die die Messungen der Sensoren aufzeichnet. Wenn Keuchgeräusche aufgezeichnet werden, wird die Stelle lokalisiert, Ärzte können dann gezielt nach der Ursache suchen.
+Wearable für den Arm, misst Herzfrequenz des Trägers und kann so indirekt als Lügendetektor verwendet werden
+Mehrere: Socken, die Familienangehörige warnen, wenn der Patient aufgestanden ist und seinen Weg verfolgen; Apps, die Familienangehörige warnen wenn der Patient einen vorher definierten Sicherheitsbereich verlassen hat; Smart Glasses die dem Patienten u.a. anzeigen, welche Pillen er wann nehmen muss
+"The Dash"- Kopfhörer fungieren als kabellose In-Ear Fitnesstracker, durch eine Verbindung zum Smartphone dienen sie auch als Bluetooth-Kopfhörer. Außerdem ist ein Speicher integriert, sodass Musik direkt gespeichert werden kann.
+Jacke mit eingearbeitetem Chip, der dem Träger kontaktloses Bezahlen durch einen Scanvorgang des Chips ermöglicht.
+Ring kann über Nacht getragen werden und zeichnet Gesundheitswerte (Herzfrequenz, Körpertemperatur, Atmung und Bewegung) auf. Daten können dann am Morgen anhand einer Smartphone-App analysiert werden.
+Technologie kann Bewegungen des Menschen dreidimensional erkennen, durch die voreingestellte Bahnlänge werden geschwommene Bahnen, zurückgelegte Distanz, verbrannte Kalorien, etc. gezählt. Dabei kann der Tracker (Armband) sogar zwischen den verschiedenen Schwimmstilen unterscheiden.
+Alternative zur Bluetooth-Übertragung: Menschliches Magnetfeld wird genutzt um Daten "durch die Haut" zu übertragen. Dazu wird nahezu keine Energie verbraucht und Daten werden verlustfrei übertragen.
+Der Träger kann Ziele für die tägliche Bewegung setzen und erfährt durch Vibrationssignale der Uhr ob diese am Tag umgesetzt wurden.
+Device kann an beliebiger Körperstelle getragen werden. In Notfallsituationen wird via Bluetooth ein Notruf an eine eingestellte Person gesendet. Diese kann das Geschehen mithören und ggf. Hilfe rufen.
+Kleines Wearable kann an beliebigem Gegenstand befestigt werden (genäht, geklebt, …) und sendet einen Alarm an das Smartphone, wenn sich der Besitzer zu weit vom Gegenstand entfernt.
+MagnifiSense: Sensoren, die am Handgelenk getragen werden erkennen die Aktivitäten des Trägers und können so seinen CO2-Verbrauch messen.
+Bisher noch namenloser Fitnesstracker, der am Arm getragen wird. Er besitzt keinerlei Knöpfe und zeichnet Bewegungsdaten des Trägers auf.
+Ein T-Shirt mit Sensoren gibt elektrische Signale aus, wenn der Träger eine Nachricht auf dem Smartphone empfangen hat.
+E-Spoon, der nicht nur die Menge an Müsli zum Frühstück misst sondern auch mit einem Messgerät ausgestattet ist, welches Alarm schlägt wenn der optimale Aufgeweichungsgrad erreicht ist, soll Spaß bringen.
+Armband ist mit Smartphone verbunden und meldet einkommende Nachrichten und Anrufe. Außerdem kann es Sprachen übersetzen und fungiert damit als Dolmetscher.
+Tracker kann Bewegungen genau erkennen und analysieren, außerdem ist er ausgestattet mit einem Bluetooth In-Ear, sodass Audio-Signale übertragbar werden,
+Wearable sieht aus wie ein Bluetooth-Headset und ist in der Lage elektrische Signale die durch Gedanken im Gehirn entstehen in Aktionen (z.B. Bedienung eines PCs) umzusetzen.
+Wearable fungiert als Fitness-Tracker, Navi, vibriert bei eingehenden Nachrichten (individualisierbar)
+Safety-Wearable mit GPS-Funktion
+Kleidungsstücke, die elektrische stimulierende Signale aussenden und damit chronische Krankheiten eindämmen
+Mouthguard misst zahlreiche Werte in Speichel (z.B. Laktat, Harnsäure, …). Daten werden per Bluetooth LE auf Smartphone übertragen.
+Armband, welches Tennisbewegungen und Daten aufzeichnet. Diese können mit einer App analysiert werden.
+Schuhe verbinden sich mit Smartphone. Der Träger kann gewünschten Zielort in Smartphone eingeben (Koordinaten), Schuhe erkennen aktuellen Standort und leiten den Träger zum Ziel, dies geschieht durch Vibrationen des Schuhs (links wenn links abgebogen werden muss; rechts analog)
+Datenbrille, die je nach Konfiguration Daten auf dem Bildschirm anzeigt. Entwickelt wurde sie für Radler, die dadurch Geschwindigkeit, zurückgelegte Strecke, … einsehen können.
+Sensoren, die beim Schwimmen getragen werden können und Daten wie die zurückgelegte Strecke, Geschwindigkeit, abgebaute Kalorien messen.
+Insulin-Patch mit Bluetooth-Verbindung, Patient wird durchgehend überwacht und bekommt Insulin wenn Bedarf besteht
+Band, das am Bein getragen wird und den Sauerstoffgehalt des Bluts misst, dies geschieht durch optische Sensoren, welche die Farbe des Bluts erkennen und Rückschlüsse auf den Sauerstoffgehalt zulassen.

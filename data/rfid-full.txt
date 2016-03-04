@@ -1,0 +1,477 @@
+Anmieten von Lagerraum in Kistenform mit Nachverfolgung als Service für die Kunden
+Staplerfahrer werden gewarnt, wenn sich ein anderes Fahrzeug/Person in der Nähe befindet, Auswertungen über Beinah Unfälle möglich
+Verfolgen von hochwertiger Krankenhausausstattung, Anzahl/Häufigkeit von Händewaschen der Ärzte, Nachverfolgen vom Patientenfluss
+sehbinderte Personen werden informiert, ob sie in der Nähe eines Gate/Toilette/…sich befinden, oder den Weg navigieren
+Großhändler konnte mithilfe von RFID die Überprüfungszeit der Waren durch seine Kunden um 65% reduzieren
+Überprüfen der Medikamente für die Patienten auf Haltbarkeit, Verträglichkeit und richtige Dosierung
+Kunden können über Tablets mit NFC weitere Informationen zum Produkt erhalten, während der Händler Informationen über die Vorlieben der Kunden erhält
+Überprüfen der Sicherheit von Schweißnähten
+personalisiertes Schlüssel-Schloss System; aufzeichnen eines Reisetagebuchs, Nachverfolgung bei Diebstahl
+Besucher können das Gerät verwenden, um Informationen und Muster von Exponanten zu erhalten, Erstellen eines eigenen digitalen Designs
+Verfolgen hochwertiger chirurgischer Teile und welcher Patient sie erhält, Überprüfen von Ablaufdaten im Lager
+Temperaturführung empfindlicher Güter, Schadensvermeidung
+der Händler installiert CSL Reader und Antennen in den Vitrinen, um zu verfolgen wenn Schmuck entfernt, entwendet oder verkauft wurde
+Verfolgen der Bewegungen, die Ford Fahrzeuge durchlaufen, um als Polizeifahrzeuge modifiziert zu werden, Beschleunigen der Durchlaufzeit
+schnellerer Check-in von Vielfliegern
+schnellere, effizientere und schlankere Megaprojekte und deren Abwicklung
+optimierte Lagerverwaltung; besseres Verfolgen der Produkte
+Track and Trace von medizinischen Produkten
+leichtes Lokalisieren von Paletten, Produkten; verbesserte Prognosen
+Information und Unterhaltung über die Exponate; Lokalisieren von Personen (wer an welchem Exponat steht)
+erleichtertes Aufzeichnen und Abspeichern von Vitalwerten, Lokalisieren von Personen besonders Kinder/Babys, leichtes Lokalisieren von Produkten
+Verfolgen von Kundenaufkommen am Fronteingang, Einblick in das Kaufverhalten
+Sicherstellen der Produktechtheit, WWS
+verbessern von Produktumschlag und Arbeitseffizienz
+genaue Bestimmung von getaggten Rohren oder anderer Infrastruktur unterhalb der Erde
+Track and Trace von Flurförderfahrzeugen und Lagerpersonal
+Erhöhen der Produktionseffizienz, Bestandsgenauigkeit und Arbeitssicherheit
+Verfolgung von Dokumenten
+besserer Überblick über beladene Paletten im Produktionssystem
+Erhöhen der Bestandsgenauigkeit um 10%
+Verfolgen der Produktion, Sicherstellen, dass der Händler den richtigen Ski an den richtigen Kunden verkauft und der Kunde erhält über den Tag weitere Produktinformationen
+Verfolgung der Produktion, Sicherstellen, dass alle wichtigen Inspektionen durchgeführt wurden
+Verfolgen der Fässer
+Reduzieren von Durchlaufzeiten
+wo befinden sich hochwertige Güter, welche Bearbeitungsschritte werden vorgenommen
+Testen wie gut Geräte zur Nahrugnsmittelbearbeitung gereinigt wurden
+Work in progress nachverfolgen
+Track & Trace von Maintenance Personal
+Track & Trace von Equipment
+Track & Trace von Equipment
+überprüfen von getaggten Pipes auf Risse etc.
+höhere Effizienz bei der Verfolgung von  verpackten Komponenten
+ermöglichen von tags in besonderen Umgebungen wie on metal oder in der Nähe von Flüssigkeiten
+Reduzieren von Emissionen
+Track & Trace von Equipment
+Nachverfolgen von Motoren über den gesamten Produktionsprozess hinweg
+Verfolgen der Reifen
+Unterhaltung
+Sicherstellen dass alle Arbeiter außer Gefahrenreichweite sind
+Taggen von Produkten aus Metall oder flüssige Stoffe
+Sicherstellen, dass die richtige Patrone eingesetzt wird, um die richtige Menge an Kleber, Spachtelmasse, Farbe oder andere Flüssigkeiten für jeden Job richtig zu dosieren
+Reduzieren von Verbau fehlerhafter Teile
+Nachverfolgen von Produkten, Lokalisieren
+ermöglichen von Tags in besonderen industriellen Umgebungen (höhere Robustheit)
+über das Lager bezüglich Office Equipment
+von Produktionsteilen, wann und wo geliefert, eingebaut etc.
+Verfolgen von Personal und Material
+von Schwergut
+wann sich Besucher wo auf dem Produktionsgelände aufgehalten haben
+auf gefälschte Komponenten/Güter
+Erhöhen der Sicherheit bei der Produktion, höhere Effizienz und reduzieren von Fehlern
+Track & Trace von Personal und Gütern
+Reduzieren von Fehlern und Rekord über Produktionsprozess
+Track & Trace von Gütern
+Track & Trace von Gütern
+Track & Trace von Gütern
+kein unerlaubter Zugriff auf verschreibungspflichtige Medikamente
+Track & Trace von Gütern
+kleinere RFID Reader
+Sortieren und Verpacken von Gütern in optimierter Reihenfolge
+Vermeiden von Transportfehlern, überprüfen dass die richtige Güter auf dem LKW geladen sind
+Erhöhen der Effizienz bei Lagerabläufen mithilfe von RFID
+Track & Trace von Gütern
+Track & Trace von Gütern
+Track & Trace von Gütern
+Überprüfung des Flüssigkeitspegels, Rechtzeitiges Bestellen neuer Teile, falls diese zur Neige gehen
+Verfolgung von Mitarbeitern, die im Umfeld giftiger Gase arbeiten
+Track & Trace von Gütern
+sicheres und einfaches mobiles Bezahlen
+sicheres und einfaches mobiles Bezahlen
+sicheres und einfaches mobiles Bezahlen
+Verknüpfung mehrerer Geräte, gesteuert durch ein Gerät
+sicheres und einfaches mobiles Bezahlen
+QR Codes ersetzen Username und Passwörter
+Informationen über Lokalisierungs-, Bewegungs- und Temperaturwerte
+Sicherheit beim Check- in mittels biometrischer Daten
+Kunden bekommen Kochrezeptvorschläge zum Haferprodukt im Supermarkt
+Sicherheit beim Check- in
+sicheres und einfaches mobiles Bezahlen
+sicheres und einfaches mobiles Bezahlen, Kundenkarten über NFC verwalten
+effizienterer Personaleinsatz dort, wo er am dringendsten benötigt wird
+Kunden bekommen Werbung und Vorschläge, welche Läden potenziell interessant wären (aufgrund von Analysen, welche Läden vorher schon wie oft besucht wurden)
+Austausch von Bildern oder Spielen mit anderen Tamagotchi-Besitzern
+Koseneinsparungen
+sicheres und einfaches mobiles Bezahlen
+Einfaches Einchecken
+Sicherheit vor Diebstahl hochwertige Liköre
+Track & Trace von Gütern und Personal
+frisches Essen unabhängig von Ladenöffnungszeiten; immer verfügbar (sobald etwas zur Neige geht, bekommt Automatenbetreiber Bescheid, dass etwas nachgefüllt werden muss)
+für Konferenzteilnehmer
+in den Bereichen Yard Management, Pipe logistics, Container Tracking, Military applications and managing construction or rail assets
+sensorgestütztes Parkleitsystem
+Track & Trace von Explosivstoffen für industrielle Zwecke
+Track & Trace von Containern weltweit
+optimales Lokalisieren und Nachverfolgen in schwierigen Umgebungen
+Zufahrtskontrolle auf dem Firmengelände
+Lokalisieren von Personen in Outdoor Umgebungen
+erweitern des Spieleerlebnisses durch Verknüpfen von realen Spielsachen mit virutellen Spielen
+Minimierung von Fehlern und Steigerung der Effektivität
+schnellere und sichere Erfassung von Fahrzeugen im Bereichen der Parkraumbewirtschaftung
+mit dem Handy und mithilfe eines NFC Stickers kann bargeldlos bezahlt werden
+Track & Trace von Lieferungen
+modulares RFID Managementsystem für automatisch dokumentierte Schlüsselverwaltung (Zutrittskontrolle)
+Einsparen von Plastik, nachhaltigerer Transponder
+leichteres Identifzieren von Werkzeugen und gezieltes Positionieren in den Robotormagazinen
+das Personal wird in Echtzeit informiert, wenn Patienten ihren gesicherten Bereich verlassen
+Tracking von Schweinen
+Tracking von Metallcontainern gefüllt mit Schrauben/Nägeln
+Track & Trace von wiedervertbaren Transportboxen
+vom Reifendruck in  Stadtbussen
+dass alle Mitarbeiter außer Gefahrenreichweite sind
+besserer Überblick über ankommende Teile/Komponenten zur Endmontage
+wie lange eine Ölquelle genutzt werden kann
+automatische Übermittlung mittels RFID Tag wie eine Tür/Fenster bearbeitet werden soll
+Nutzen von multifunktionalen Karten für verschiedene Anwendungen für die Mitarbeiter
+Dokumenten Verfolgung
+schnelleres Auslesen, schnelle Kodiermöglichkeiten für Bekleidungsstücke
+Identfizieren von Abfall zur richtigen Trennung/Aufbereitung
+Berücksichtigen von Kundenwünschen zur Ausstattung der Autos
+sicheres bargeloses Bezahlen mit NFC Sticker und Kopierschutzfunktion
+Echtzeit Tracking für den Einzelhandel
+Kundenkarten-, Gutschein- und Payment Barcodes lassen sich schnell und sicher in jedes Kassensystem übertragen
+nutzen von RFID auch in anspruchsvollen Produktionsbedingungen z.B. über 250°C
+fälschungssichere und automatische Fahrzeugidentifikation
+verlässlicheres Track & Trace bei Containern, sowie Fälschungsschutz
+RFID Reader kann bis zu 2m Abstand zum Tag haben
+Kunde kann über NFC weitere Informationen zum Shirt erhalten (beispielsweise Herstellungsort, verarbeitetes Material oder Waschhinweise)
+besseres Replenishment und Übersicht über die Bestände sowie Verkäufe
+Nachverfolgen wann ein Geldstück hergestellt wurde und wo
+Nachverfolgen von Container Ort und Status
+Lokalisieren von Stahlrohren, -platten oder anderen gelagerten Teilen
+Identifizieren der Vorlieben von Treuekarten-Inhabern, gezielte auf den Kunden zugeschnittene Werbung
+Nachverfolgen von Inspektionen (wann, wo von wem durchgeführt)
+Verknüpfen physicher Spiele mit mobilen Spieleapps bzw. Spielerweiterungen
+bargeldloses Bezahlen auf Musifestivals
+kostengünstige Alternative zu RFID Reader wird ein zellulares Netzwerk verwendet (GSM basiert)
+Verfolgen von Bewegungen, Inspektionen und Erhöhen der Performance der Trucks durch gezieltes Routing
+der Kunde erhält Preisnachlass oder ein Freiprodukt, wenn er mit seinem registrierten Handy in einem definierten Beacon Bereich in der Nähe der Kasse von z.B. Coffeeshops gelangt; das Unternehmen erhält Informationen über Kundenverhalten und Kaufvorlieben
+mithilfe dem E-Zpass kann der Kunde bei einem Drive in Restaurant bargeldlos bezahlen, erhält Credits wie bei einer Kundenkarte und eine personalisierte Ansprache am Bedienbildschirm
+der Warenverfügbarkeit, automatisierter Versand von Kleidungsstücken, Überprüfen der Kisten auf Richtigkeit
+auf Konzerten oder Sportveranstaltungen
+höhere Bestandsgenauigkeit, Vermeidung von Bestandslücken und Überbeständen
+höhere Transparenz über Wartungsprozesse/Instandhaltung, Erfassen von schnellen Zügen
+Smartcard mit verschiedenen Funktionen wie Bezahlfunktion, Ausweis, Bankkarte, Führerschein, Rentennachweis etc.
+Lokalisierung von alarm auslösenden Endgeräten (Bewohnerarmband), wenn diese sich in Gefahr befinden, bewohnerindividuelle Alarmierung von desorientierten Bewohnern
+Einsatz von flexiblen Tags, Hard und Patch Tags für unterschiedliche Einsatzbereiche bei Umgebungen mit hohen Temperaturen
+für Produkte aller Art
+Erforschung der komplexen Beziehungen der Honigbienen zur Umwelt
+Nachverfolgen des Logistikprozesses und bessere Diebstahlsicherung
+Analyse von Fußballspielern und Trainingseinheiten in Echtzeit
+kürzere Durchlaufzeiten, beschleunigte Abwicklung an der Kasse,bessere Warenbestandserfassung,
+ermöglichen einer Integration von RFID in Spritzgussteilen (zerstörungsfreie Verbndung zwischen dem Chipmodul un der Antenne)
+Dokumenten Verfolgung; schnelle Identifizierung von gestapelten Gegenständen
+Analyse von Hockeyspielern und Trainingseinheiten zur Steigerung der Leistung
+der Fischkästen entlang der gesamten Transport- und Produktionskette, höhere Sicherheit und Qualität
+automatische Identifikation von Fahrzeugen mit Berechtigung, Optimierung von der Auslastung des Parktplatzes und Erkennung freier Bereiche
+Zustandserkennung von Komponenten, Temperatursensor überprüft Schwellenwert zur Funktionalität der Behälter
+Erkennungssystem für die elektronische Registrierung von einzelnen Teilen, Ermittlung und Optimierung von Beständen, Entnahmen werden automatisch erfasst
+optimierte Bestandsgenauigkeit, out of Stock durch Bestandsdifferenzen wird reduziert
+Erkennen von Abweichungen zwischen Versand und Wareneingang sowie zwischen IST und Soll Lagerbestand, vermeiden von entgangenen Umsätzen und somit verbessern der Margen
+Markenschutz und Authentifizierungslösungen mithilfe von RFID Labels
+Steigerung von Produktivität und Qualität in der Fertigung durch automatische und fehlerfreie Verwaltung der Werkzeuge, optimale Ausnutzung der Restandzeiten von Werkzeugen, Transparenz über den Werkzeugbestand
+der Schlüsselanhänger kombiniert Vorteile der RFID Technologie im Bereich Zugangskontrolle und Zeiterfassung; insbesondere für den Liferstyle und Business Bereich sowie Hotellerie geeignet
+höhere Garantie für Qualitätshelme, da eine zusätzliche Speicherung von Benutzer-ID, Inventarnummer etc. möglich ist
+Tag mit Temperatursensor für alle Anwendungen, wo es eine Kühlkette gibt bzw. Produkte auf Temperatur überwacht werden müssen
+Überwachung von Vorgängen im OP, automatisierte Dokumentation (wann welcher Patient operiert wurde, welche Materialien und Hilfsmittel verwendet wurden)
+automatisierte Abrechnungsprozesse ohne Kassenpersonal, automatisierte Nachbestellung und Nachfüllung
+Artikelsicherung mithilfe von RFID, Einblick in Echtzeitdaten zur Verbesserung der Storeperformance
+Verpackungsidentifizierungsprozess für korrekte Kennzeichnung und Rückverfolgbarkeit von Produkten, Echtzeitverbindung zum ERP System
+kontaktlose Smart Tickets ermöglichen den Touristen einfachen, sicheren und verlässlichen Zugang zur den Bussen; geringere Wartungskosten, da die Tickets über Reader ausgelesen und nicht abgestempelt werden
+für Anwendungen mit hohen Ansprüchen an Optik und Haptik, in Büro oder Zugangsberechtigungsanwendungen z.B. Videothek oder Sportstudio
+Fahrzeuge werden getaggt für sicheren automatisierten Zugang; einsetzbar in rauen Umgebungen
+besonders für KMU's interessant; Anwendungen in Schwimmbädern, Solarien, Fitnessstudios etc.; zusätzliche Steuerung von technischen Geräten und Abläufen möglich
+von Tieren, sensorische Überwachung; aufgrund der kleinen Baugröße auch für kleine Tiere geeignet
+Nutzung öffentlicher Verkehrsmittel mithilfe von NFC und dem Smartphone; Bezahlen von Parktausweisen
+NFC-fähige Bonuskarte für Bürger und Unternehmen der Region zur Nutzung praktischer Angebote und Informationen von Unternehmen rund um Handel und Verkauf aus der Umgebung
+für verschiedenste Anwendungen z.B. industrielle Automation, Verleihsysteme, Bücherei Management Systeme etc.
+auf der Postkarte können Bilder oder Videos gespeichert werden und mit handschriftlichen grüßen versehen werden, der Empfänger kann die Nachricht mithilfe von NFC fähigen Smartphones abrufen
+kombinierte Kennzeichnung von Ladungsträgern und deren Begleitdokumenten; geeignet für glatte Untergründe auch bei Temperaturen über 120°Celsius
+Diebstahlschutz von Maibäumen, zusätlicher Rüttelsensor, GPS Überwachung
+Überwachen von Ausrüstung (Schwimmwesten, Sauerstoffmasken etc.) dadurch erhebliche Zeitersparnis; bessere Einhaltung der Sicherheitsüberprüfungen
+girogo-Lösung für das Bezahlen von Parkscheinen und Bedienen des Ausfahrtterminals; mit der Girokarte wird das Ticket bezahlt (NFC)
+Nachverfolgen von Vorbereitungsmaßnahmen für Chemotherapie von Krebspatienten
+Carlsberg verteilt Bieruntersetzer mit einem NFC Tag, von dem der Kunde eine App herunterladen kann, von der dieser Angebote erhält
+auf digitalen Postern in Bars kann der Kunde eine Uber App  herunterladen, dieser kann eine Taxifahrt nach Hause buchen
+NFC Bezahlfunktion; Identifikationsfunktion zusätzliche Iriserkennung
+Identifikationsüberprüfung mit Fingerabdruck im Smartphone zur Erhöhung der Sicherheit
+Identifizieren der Bauern, wer welches Saatgut wann entnommen hat, da diese staatlich gefördert werden, soll Missbrauch vermieden werden
+zum Smartphone, wodurch eine höhere Sicherheit garantiert wird
+NFC eingebettet im Schlüssel zum jeweiligen Zimmer
+mithilfe der akustischen Kommunikationstechnologie kann im Taxi bezahlt werden
+mithilfe des Armbandes können Förderer leichter Spenden dem Krankenhaus zukommen lassen
+verschiedene Spielfiguren mit NFC (Wii U und 3DS) können spezifische Skills erhalten, je mehr der User mit ihnen interagiert; erhöhtes Spielerlebnis
+das interaktive Poster beinhaltet mehrere Touchpoints, auf denen Kunden mit NFC Informationen, Coupons oder Angebotsvorschläge abrufen können
+Audi-connect Dienste zur kontaktlosen Bezahlung von Parktgebühren vom Auto aus
+Projekt zur Untersuchung der Durchgängikeit von Wasserstraßen
+dünne flexible Tags ermöglichen eine Vielzahl an kreativen Anwendungsszenarien sowohl in Industrie als auch in Consumer Goods Bereichen
+Prüfungen von Schläuchen, Arbeitsmitteln, Maschinen etc. werden mithilfe von RFID erleichtert; leichtere Kontrolle, ob alle Prüfmaßnahmen durchgeführt wurden; Erhöhung der Betriebssicherheit im Produktionsprozess
+über das Verhalten der Besucher (wo sie entlang gehen und wann sie Kurznachrichten versenden), um ein möglichst ideales Tenniserlebnis garantieren zu können
+Flugpassagiere erhalten eine Map vom Airport, um sich besser zurechtzufinden
+über medizinische Vorgeschichte und Informationen über den Patienten (Name, Allergien, Medizinische Verfassung, Medikamente und andere Details wie Blutgruppe etc.)
+können leicht in Produkte eingebettet werden, intelligente Produkte
+mehrere verschiedene Pässe können in einer einzelnen kontaktlosen Karte integriert werden
+auf der "Geburtstagsfeier" einer Modekette konnten Kunden mit NFC ausgestatteten Tablets bewegungsbasierte Spiele spielen, Fotos auf sozialen Netzwerken posten; ein NFC Armband ermöglicht eine Verbindung zum Facebook Profil (posten von Fotos/Events)
+sensorische Überwachung, Lokalisierung und Herdenbewegungen
+Überwachen der Spielperformance, Messen der Abstände zwischen den Schüssen, Bestimmen der Position auf einem Kurs
+überwachen von Gesundheitsparamtert (Blutzuckermessung etc.); UV Sensorik
+höhere Sicherheit bei der Bereitstellung und Entnahme von Cannabis, Temperaturkontrolle, durchgängiges Monitoring der Vending machine
+besserer Einblick in den Lagerbestand, Wareneingänge und -ausgänge, Abverkäufe etc.
+Identifizieren vermisster oder gestohlener Fahrräder (Lokalisieren des Standortes und Identifizieren des Besitzers)
+reduzierter Zeitaufwand um benötigte Teile im Lager zu finden (viele Kabel sind sehr ähnlich); besserer Einblick in den Lagerbestand
+automatisierte und zuverlässige Lokalisierung und Identifikation
+Hauhsaltsrobotor können mithilfe von RFID Personen und Objekte eindeutig identifizieren und so im Haushalt besser unterstützen (Aufräumen, holen von Dingen; Dosieren von Medikamenten)
+Track  Trace von Produkte, Gleichzeitige Temperaturüberwachung; keine Batterieversorgung notwendig
+NFC Funktionen für Consumer Electronic, Wearables und Home Automation; eigene Stromversorgung; geringer Stromverbrauch; einfache Kommunikationsintegration für bidirektionalen Datenaustausch
+Lokalisieren und Nachverfolgen von Laptops, RTLS; Alarm wenn der Laptop einen bestimmten Bereich verlässt; Bewegungssensor
+solargetriebener RFID Tag
+verbesserte Interoparabilität aufgrund der Kombination aktiver und passiver Tags; zuverlässige durchgängie Verfolgung von Waren
+identifikation von Tieren und deren Bewegungen;
+Anti Diebstahl Sicherung, da ein Alarm ausgelöst wird, wenn das Gemälde von seinem Platz entfernt wird
+zusätzliche Sicherheit durch biometrischen Fingerabdruck
+Erhöhte Lesereichweite bei Metall, kontrollierte Performance bei unterschiedlichen Materialien, auf denen die Tags aufgebracht sind; speziell für die Öl- und Gasindustrie geeignet
+mithilfe des RFID Systems wird gesteuert, welche Düse sich gerade auf dem Werkstückträger befindet und wie diese bearbeitet/zusammengesetzt werden muss
+Umkleideräume, die mitdenken d.h. es können dreidimensionale Ansichten der anprobierten Kleidungsstücke aus allen möglichen Perspektiven erzeugt werden, oder ein Objekt in Zeitlupe vorführen lassen, oder Zusatzinformationen über das Produkt einblenden und Fragen beantworten lassen oder Einblenden von Produktangeboten/ Verfügbarkeit etc.; Nutzung sozialer Netzwerke
+gesamte Abbildung der logistischen Prozesskette inkl. Auslieferung, Lagerung, Nachschub, Verkauf und Kundenbindung mithilfe von RFID; Informationen aus einer "Hand"
+vereinfachter Produktionsprozess von RFID Tags, Antennen etc.; reduzierte Kosten im Herstellprozess; neue Möglichkeiten der Personalisierung der RFID Labels
+überprüfen der Straßen auf beschädigte Sensoren, die wiederum Druck und Abnutzung der Straßen messen
+Überprüfen und dokumentieren der ankommenden und verarbeiteten Waren auf Frische mit einem integrierten UHF RFID tag
+reduzieren von Müll, dadurch einsparen von Materialkosten; Nachverfolgen der Materialien; Produktionsprozess soll fast ausschließlich mittels Software gesteuert werden
+mit der NFC Lösungen können Benutzer eines Parkthasues leichter ihr Auto wiederfinden, man benötigt zum Auslesen lediglich ein NFC-fähiges Smartphone
+eHealth Tablet mit Patienteninformationen ist durch ein integriertes Schreib/Lese-Modul für NFC-RFID Karten gegen unerlaubten Zugriff gesichert
+Lokalisieren von Schülern, bei hoher Anwenseheitsrate erhalten die Schulen staatliche Zuschüsse
+mithilfe von RFID Tags können Eltern feststellen ob ihre Kinder zur Schule gegangen sind
+gedruckte Plastikfolie für NFC-Tags zur Reduzierung von Herstellkosten
+höhere Energieeffizienz, Entlastung der Mitarbeiter durch automatische Sortierung der Wäsche
+der Koffer wird mit einem RFID Modul ausgestattet, zeigt das Gewicht an, erspart Einchecken und Warten am Gepäckschalter; weltweite Ortung
+von Objekten mithilfe von Pick-by-light
+der flexible Paketbutler kann an der Wohnungstür angebracht werden, um so die Paketzustellung von online Bestellungen zu erleichtern
+erhöhte Sicherheit durch speziellen Sensor mit RFID Technik, der die Türstellung (offen/geschlossen)
+schnellere Identifizierung von Mehrwegbehältern entlang der Supply Chain; weniger Fehler durch automatisierte Erkennung, Kostenreduzierung durch weniger Verlust von Behältern; eindeutige Abrechnung von Kosten
+RFID Chips embedded in Papier mithilfe von laser-basierten Verfahren
+mit nur einer Karte ist die automatisierte Zugangskontrolle für Personen und Fahrzeuge möglich; Tag benötiigt keine Batterie und ist daher wartungsfrei
+für alle Anwendungen die eine exakte Standortbestimmung von Kindern und Erwachsenen in Echtzeit erfordern
+personalisierte Informationen für Museumsbesucher, Verfolgen von Bewegungen der Besucher
+Patientenidentifizierung und Lokalisierung mithilfe eines RFID Armbandes
+das Smartphone als digitaler Fahrzeugschlüssel, mit dem gleichzeitig das Handy mithilfe von NFC aufgeladen werden kann
+zusätzlich zur Eingabe von PIN oder Unterschrift soll ein Fingerabdruckscanner direkt auf der Kreditkarte hinterlegt sein, sodass Zahlungen dann mit dem Fingerabdruck besiegelt werden und per NFC die Übertragung der Zahlungsdaten realisiert wird
+mithilfe von Smartphones wird physicher Zugang zum Unternehmen gewährt
+Besucher erhalten über Plakatwerbung aktuelle Informationen über den Zoo, Angebote etc.
+neue Spielerlebnismöglichkeiten mithilfe von NFC Technologie im Gaming-Bereich, um virtuelle und reale Welt miteinander zu verbinden
+NFC Tapping Stations (Werbeaufsteller plus intelligentes NFC Etikett) sollen Kundeninteresse für digitale Services gewinnen und langfristig die Kundenbindung steigern
+speziell für Kinder und Jugendliche soll das Bezahlen mit dem Smartphone ermöglicht werden; prepaid Funktion; mit der Cashcloud können Jugendliche die Verwaltung von kleineren Geldgeschäften lernen
+die Position des Koffers wird verfolgt, über Sensoren können noch weitere Daten (gereiste Meilen, die angeflogenen Flughäfen etc.) gesammelt werden, der Koffer kann mittels Smartphone ge- und entsperrt werden, zusätzlich verfügt der Bluesmart eine Batterie, mit der man das Smartphone laden kann
+Käufer können mithilfe des NFC Ringes Zugang zu privaten Daten gespeichert in der Cloud (Bilder, Videos etc.) erhalten
+Kunden fotografieren von einer Werbewand die Produkte mit dem Smartphone ab, die sie gerne kaufen möchten (Lebensmittel), anschließend wird die individuelle Bestellung nach Hause geliefert; Bezahlt wird mittels Smartphone und NFC Tag
+Kontrolle und Freigabe von Produktionsschritten, Zuordnung produktbegleitender Informationen, schlanke und transparente Montageüberwachung
+Steigerung der Genauigkeit von Bestandsdaten; außerdem höhere Transparenz über die Bestände
+automatische Lagerplatzerkennung mit RFID und RTLS, Identfikation und Verfolgung von Objekten entlang der Supply Chain
+automatisierte Erfassung von Teilen und Komponenten in der Produktion
+Demenzkranke Personen im Pflegeheim bekommen ein Armband das mit RFID ausgestattet ist, sobald sie das Heim verlassen, wird ein Alarmsignal ausgelöst und der Pfleger entsprechend informiert um zu verhindern, dass Bewohner verschwinden
+mithilfe eines digitalen Fingerabdruckes für sicherheitssensible Luftfracht soll verhindert werden, dsas gefährliche Substanzen an Bord eines Flugzeuges gelangen; auch Manipulationen an Sendungen können leichter verfolgt werden
+multifunktionale interaktive Smart Cards mit Display, Touchfeld und tastatur; Anwendung in flexbilen Displays
+Flugpassagiere können mittels der Beacons eine Reihe von Anwendungen via Handy oder Tablet aufrufen (z.B. Navigation durch das Flughafengebäude)
+Identifikation von Materialien, Informationen über sicherheitsrelevante Aspekte wie wann wurde welches Teil wo eingebaut und wann überprüft
+befindet sich ein Kunde in der Nähe eines teilnehmenden Restaurants bekommt er automatisch per iBeacon Angebote oder Werbeinformationen
+mit der CarPlay funktion kann man mithilfe des Apple iOS das Auto aufschließen, es starten und auch wieder schließen
+Bezahlung indem der Benutzer an ein individualisiertes Verkaufsgerät tippt
+Brustimplantate erhalten mittels RFID eine elektronische Seriennummer zur besseren Nachkontrolle und Identifikation zu Herkunft und Typ
+das Händewaschen der Mitarbeiter wird mittels einem RFID Armband überprüft; Alarm wenn die Waschdauer nicht lang genug ist
+Bezahlen an der Tankstelle im Auto mithilfe vom Smartphone
+Komponenten Tracking, mittels Tags an den Regalen und Readern an der Decke der Lagerhalle können Gabelstaplerfahrer Informatioen über die zu kommissionierende Ware abrufen wodurch Fehlkommissionierung reduziert wird
+Kunden können Punkte auf ihre Einkäufe mittels des BLE Service sammeln und auch bestimmte Rabattaktionen wahrnehmen; Die Bluetooth Funktion startet sich selbst beim Betreten des Laden bzw. in einem bestimmten Umkreis zum Geschäft
+Dokumente von Kunden werden ab 2015 nur noch in Boxen gelagert, die mit RFID ausgestattet sind, für eine leichtere Verfolgbarkeit und höhere Datentransparenz
+in Echtzeit kann Baustelleninventar (z.B. Baumaschinen, Anbaugeräten oder Stromaggregaten,…) erkannt und überwacht werden, sodass weniger Verlust und verringerte Ausfallzeiten auftreten
+in der Produktverpackung ist ein NFC Tag eingebettet um die Authentizität des Produktes sicherzustellen, Verfolgen des Paketes, Informationen wer das Produkt kauft, wo und wie häufig
+druckbarer Tag, für Umgebungen mit hohen Anforderungen wie z.B. auf Metall
+Lokalisierung von vermieteten Autos, Reduzierung von Kundenwartezeiten und automatisierte Datenspeicherung
+eindeutige Identifizierung von Sicherheitshelmen und somit Garantie dass ein echtes Qualitätsprodukt vorliegt, die Helme werden direkt im Sicherheitsprozess in de Helm integriert und mit anwenderspezifischen Daten wie beispielsweise Inventarnummer, Benuter-ID, Herstellungsdatum und Wartungstermin versehen
+Lokalisierung und Verfolgen von Inventar mit weniger installierten Antennen, es können sowohl aktive als auch passive Tags erfasst werden
+erhöhte Prozesseffizienz durch automatisierte Erfassung und Identifikation von Komponenten, im IBSmart Truck werden alle geladenen und ausgeladenen Batterien erfasst, die Zeit für Lagerverwaltung wird um 30 Minuten pro Tag reduziert
+Fahrräder von Postdienstleistern werden mit RFID Tags ausgestattet, um diese zu verfolgen und verlorene/gestohlene Fahrräder zu lokalisieren
+durch die Bezahlung mit Kreditkarten erhält die Transportorganisation Informationen wie häufig eine Verkehrsverbindung benutzt wird und wie verschiedene Routen ausgelastet sind, für Langzeitanalysen können die angebotenen Routen optimiert und Wartezeiten der Kunden verkürzt werden
+dem gewöhnlichen Funksignal des Lesegerätes wird zusätzlich ein Lokalisierungssignal überlagert, das sich periodisch wiederholt, so wird die Genauigkeit der Lokalisierung erhöht
+über Bluetooth beacons erhalten Kunden nach dem Kauf direkt ihre Bonuspunkte, Bereitstellen zusätzlicher Informationen und Vorschläge, Erhöhung der Kundenzufriedenheit
+flexible Tags eröffnen neue Anwendngsgmölichkeiten für embedded RFID tag wie beispielsweise die Integration in Spielkarten
+man kann identifizieren, welche Kleidungsstücke vom Kunden mit in die Umkleide genommen wurden, der Kunde kann weitere angebotene Items anfragen, Verfolgung wo der Kunde im Laden sich bewegt hat und welches Ladenpersonal wann ein iPad zur Kaufdemonstration verwendet hat
+MasterCard und Visa entwickeln einen neuen Sicherheitsstandard für mobile payments (invisible authentication)
+Kellner bekommen per SmartWatch informationen wenn eine Bestellung aus der Küche fertig gestellt wurde
+mithilfe von RFID Tags werden die Seminare des Krankenpflegepersonals überwacht und verfolgt
+embedded RFID in den Fahrzeugschlüsseln für erleichterten Verleih und Rückgabe von Mietfahrzeugen; reduzierte Wartezeiten der Kunden; höhere Kundenzufriedenheit, da weniger Fehler beim Verleih auftreten
+embedded RFID für vielfältige Anwendungsmgöglichkeiten, Funktioniert ohne Batterie, Inkl. Integrierte Sensorik
+von Gebinden mit verschiedenen Fleischprodukten von der Produktion bis in die Filiale; automatische Verladekontrolle, exakte Informatioen über den Versandinhalt
+der Kunde erhält weitere Informationen zu Schuhe, die er gerade trägt, während er auf der intelligenten Fußmatte steht; Informationen über Angebote und special offers
+Überwachung, Lokalisierung und Identifikation von getaggten Produktionskomponenten; Datenübermittlung in Echtzeit; Einsatz im Handel, Gesundheitswesen und in der Produktion
+an einem Bildschirm oder Tablet wird dem medizinischen Personal seine Körpertemperatur gemessen, um somit eine mögliche Krankheit rechtzeitig aufzudecken (Schutz von Patienten und weiteren Ärzten)
+höhere Sicherheit durch die Einbettung des NFC Schlüssel im Smartphone
+mithilfe des RFID Chips auf den Nespresso Kapseln sollen Warteschlangen in den Filialen reduziert und so die Kundenzufriedenheit erhöht werden
+Echtzeitlokalisierung von Container, effizienteres Yard-Management auf dem Terminalgelände
+Überwachung und Lokalisierung von Geflügel; Sicherstellen von Qualitätsfleisch und Garantie über Hygiene und Sicherheit während der Zucht
+Lokalisierung und Nachverfolgen von Uniformen; Sicherstellen, dass genügend Uniformen für den jeweiligen Tag für die Mitarbeiter zur Verfügung stehen; reduzieren von Asset Handling Zeit und Aufwand
+RFID Tag, der automatisch das Gewicht des Objektes erfasst; der Tag benötigt keine Batterie, Anwendungen liegen speziell im Bereich der Lagerverwaltung von Granulaten oder Flüssigkeiten
+mithilfe von RFID wird die Temperatur von Blutbeuteln überwacht, Lokalisierung und Hinterlegen von Details zu Blutgruppe etc. auf dem Tag, Optimierung der Blutbeutellieferungen
+mithilfe von Bluetooth oder der NFC Funktion des Smartphones kann ein Schloss geöffnet oder geschlossen werden
+Kunden können ihr Menü mit der iBeacon Technologie bezahlen
+Öl und Gastanker sollen mit RFID ausgestattet werden, um Schmuggel zu verhindern; Lokalisieren und Verfolgen der Tankerbewegungen
+höhere Sicherheit bei der Idnetifikation in Sicherheits- oder privaten Bereichen mithilfe von Gestenerkennung, da diese sehr individuell ist
+NFC Tags an Bäumen um den Gärtner zusätzliche Informationen über die Bäume und deren Pflege zu geben
+RFID Lesegerät zur einfachen und flexiblene Integration in die Geräte
+RFID Sensor kannt Feuchteschäden in Bauwerken erkennen, ersetzt klassische gravimetrische Methoden, der Sensor wird dabei schon während der Bauphase an kritischen/gefährdeten Stellen im Mauerwerk verbaut, um die spätere Feuchtemessung zu erleichtern
+sogenannte Smart stores beinhalten "magische" Spiegel, die ein Produkt identifizieren und  in anderer Farbe oder weitere Accessoires darstellen können, verfügen zusätzlich über Touchscreeens, über den der Kunde ein vorgeschlagenes Produkt auswählen kann, ein Mitarbeiter wird benachrichtigt und bringt das gewünschte Produkt zum Kunden
+ein mit NFC ausgestattetes Armband vereinfacht die Lokalisierung von älteren Personen beispielsweise in Heimen
+NFC Sensor der gefährliche chemikalien in der Umgebung detektiert
+Abfallbehälter werden mit RFID Transpondern ausgerüstet, um Müllkosten zukünftig besser verursachensgerecht abrechnen zu können
+der Händler erhält über einen im Ski verbauten RFID Tag Infromationen über diesen und kann so den Kunden optimal beraten
+IC's können per Siebdruck direkt auf einem Glassubstrat gedruckt werden, zahlreiche Anwendungen z.B. Druckerkennung am Glas
+virtueller Assets in den drei firmeneigenen Datenzentren; Echtzeitverfolgung wenn Teile bewegt werden
+Entwicklung eines ultradünnen und kompakten RFID Chips, der an fast jeden Gegenstand angebracht werden kann; große Bandbreite an möglichen Anwendungen z.B. zur Maschinenidentifikation oder Zugangskontrolle
+die Leseempfindlichkeit der RFID Reader wird automatisch gesteuert; getaggte Artikel könne in beliebiger Ausrichtung sowie in dicht gepackten Behältern dreidimensional fehlerfrei erkannt werden
+Fahrräder der belgischen Postboten werden mit RFID Technologie ausgestattet, die eine einfache Identifikation gestohlener Fahrräder erlaubt
+mithilfe von RFID wird eine berührungslose Datenübertragung von Informationen auf Tags auf Sicherheitskleidung ermöglicht; durch Menschen verursachte elektrostatiche Auflsdungen und die daraus resultierenden Entladungen können gemessen werden; für Branchen wie Elektronik, Pharma, Halbleiterindustrie
+Verfolgen von Neuwagen von der Produktion über Verschiffung hin zum Endkunden oder Verkäufer
+ein modifizierter NFC Tag kann Gase in der Umgebung feststellen und entsprechend alarmieren
+Stanzabfälle können mithilfe von RFID Tags sortenrein aufgefangen und weiterverwertet bzw. verkauft werden
+erster Chip der ohne Kabelverbindung geladen werden kann
+und Identifikation von getaggten Objekten; der RFID Reader benötigt keine Batterie da er über Energy Harvesting mit Energie versorgt wird
+hinterlegen von Produkt- und Verarbeitungsinformationen auf dem NFC Tag; Haltbarkeitsdatum; Lagerungsinformationen; Informationen für die verschiedenen Brotbackmaschinen
+mithilfe eines Armbandes, auf dem ein Guthaben aufgeladen wird, können Kunden Getränke bezahlen oder Fotos im Internet hochladen
+sogenannte Mehr-PersonenSchlitten sind mit RFID Tags ausgestattet, ein Reader am Skigate zählt, wie viele sich aktuell auf der Piste befinden und lässt automatisch den Zugang sperren, wenn sich eine bestimmte Anzahl auf der Piste befindet
+Armband kann sowohl als Schlüssel, als auch als Bezahlfunktion verwendet werden
+die Smart gun kann nur verwendet werden, wenn sich der Benutzer mithilfe eines RFID Ringes am Finger als berechtigt authentifiziert
+ein RFID Tag, sowie weitere Tecchnologie wie ein Gewichtssensor und Software sind an Recyclingbehältern angebracht, um deren Befüllung/Leerung/Verwendung zu überwachen (wer was wann dort hineingelegt oder entnommen hat); erhöhte Recyclingquote von bestimmten Materialien wird erzielt (Umweltschutz)
+in eine Perle ist ein NFC Chip eingebettet, der Sprachnachrichten übermitteln kann
+Melde- und Informationssystem für Eisenbahnwaggons zur Erhöhung der Transparenz im Logistikprozess
+2-Wege Kommunikation  von Beacons, nicht nur der Händler kann Informationen zu Promotionen/Coupons/… senden, sondern der Kunde hat auch die Möglichkeit auf diese zu reagieren bspw. Wenn er Unterstützung beim Kauf benötigt (technische Informationen, …)
+RFID gestütztes Prüf- und Dokumentationssystem optimiert die vorher manuell durchgeführte Dokumentation; Prüfung kann leichter an gesetztliche Vorgaben und Änderungen angepasst werden
+durch die Öffnung der Supply Chain und Standardisierung von Zertifizierungsanforderungen können RFID Standards leichter weltweit verwendet werden, der RFID tag von Xerafy liefert auch auf metallischem Untergrund zuverlässige Ergebnisse
+wann Studenten/Schüler den Bus zur Schule hin und zurück betreten bzw. wieder verlassen
+medizinische Drogen werden mit RFID Tags ausgestattet, um Diebstahl zu vermeiden bzw. zeitnah zu erkenenn; eine gleichzeitige Ortung der Tags ist möglich
+bei Dienstfahrzeugen sind Arbeitgeber verpflichtet regelmäßig die Führerscheine der Mitarbeiter zu kontrollieren; das RFID Label wird direkt auf den Führerschein geklebt und kann so automatisch an Zugangsschranken oder Schlüsselsafes überprüft werden
+ein Fußballhelm mit integriertem RFID tag kann verschiedene Gesundheitsdaten z.B.EEG aufzeichnen und bei Verletzung einen Alarm direkt an das medizinische Personal am Fußballrand ausgeben
+an jeden Baustellen LKW wurde an die Heckklappe ein RFID-Tag angebracht, worüber erkannt wird, wann welcher LKW ankommt und wie lange die Abladezeit dauert, Optimierung der Taktung der Baustellenanlieferungen
+Verfolgen von Smartphones und Tablets durch den Reparaturprozess, der RFID-Tag wird an die Lagerkörbe angebracht, Sicherstellen, dass kein Smartphone verloren geht, es wird so ermöglicht, dem Kunden ein fixes Datum mitzuteilen, an dem er sein Smartphone zurückerhält
+Fischernetze werden mit RFID Tags ausgestattet um so zu melden, falls Netze verloren sind oder wann sie repariert werden müssen; allgemeine Verfolgung und Aufzeichnung von Informationen
+mithilfe eines NFC-Tags das auf Lebensmittelverpackugnen angebracht ist, kann der Kunde oder der Qualitätsprüfer informiert werden, ob das Produkt verdorben ist
+NFC Funktionen für mobiles Bezahlen in Bus, Bahn und U-Bahn
+neuer energiesparender Tag, der sowohl Bluetooth als auch NFC Funktionen unterstützt
+RFID Tags werden mit Klebestreifen an Baufahrzeugen und Geräten angebracht, um vor Diebstahl zu schützen
+von Minenarbeitern und diversen Gütern
+Überwachung von Druck bis 30 bar und Temperatur in der Produktion mit RFID Tags
+ein digitales Thermometer in Tattoo-Form mit NFC Technologie ausgestattet ermöglicht die automatische Temperaturmessung von Kindern; gibt Alarm an ein verbundenes Smartphone
+es wurde die erste SD Karte entwickelt, die mit NFC Funktionen ausgestattet ist, so kann der Benutzer mit dem Smartphone erfahren, welche Daten auf dieser Karte gespeichert sind
+eine NFC fähige Waschmaschine, die mit dem Smartphone eingestellt und angeschaltet werden kann
+für alle Anwendungen geeeignet, die hauchdünne, robuste und flexible RFID Tags benötigen
+Tag der besonders robust (Temperaturen zwischen -40 - +80°C) ist, über verschiedene Frequenzen anwählbar und wasserresistent ist
+ein Temperatursensor überwacht empfindliche Waren wie Lebensmittel oder Pharamzeutika während des Transportes um gute Qualität zu garantieren
+ein Transponder speichert Laufzeiten und Kilometerleistung der Straßenbahnen und kann mit einem mobilen Reader ausgelesen werden; der Reader kann den Transponder exakt auswerten, indem er benachbarte Transponder filtert und Reflexionen durch metallische Untergründe ausgleicht; Temperaturresistenz von -40°C bis +110°C
+Thermometer in Form eines Pflasters, das 24h die Temperatur überwachen kann und mittels Bluetooth an eine kompatible Smartphone App sendet
+mithilfe des Ringes können Zahlen oder Notizen in die Luft geschrieben werden, Gestenerkennung oder Eingabe von Instruktionen in Maschinen; zusätzliches Gyroskop und Magnetometer
+ein RFID Tag im Gel erkennt die Anzahl an Stichproben, dem verwendeten Gel und der zugeordneten Musternummer
+in den Handtüchern ist ein RFID Tag hinterlegt, der anzeigt, ob Handtücher gestohlen wurden und entsprechenden Alarm gbit
+ein RFID Tag unter der Haut implantiert kann unterschiedlichste Funktionen erfüllen z.B. den Schlüssel als Zugangsfunktion ersetzen, Bezahlfunktion, Geräte wie Smartphone oder intelligente Objekte steuern
+mithilfe von RFID Tags können Eltern und Sicherheitspersonal der Schule die Anwesenheit der Schüler kontrollieren, außerdem ob sie den direkten Weg nach der Schule nach Hause nehmen
+Verwender von medizinischer Ausrüstung (Flaschen, Spritzen etc.) können diese nachverfolgen, und authentifzieren, ob diese keine Imitate sind
+2in1 Sensor plus RFID Tag; Überwachen von industriellen Umwelten, Produktions- und Qualitätskontrolle
+Auswertung der sportlichen Leistung der Spieler
+gleichzeitige Zeit und Zutrittskontrolle in der Hüle von Plastikausweisen für die temporäre Verwendung
+batterieloser RFID Tag soll explosive Stoff in Lager und Produktion erkennen und entsprechenden Alarm geben
+ein im T-shirt eingebetteter RFID Tag dient als Saisonkarte für Fans der schwedischen Hockeyleaga
+mithilfe eines NFC Tags kann der Kunde über ein Smartphone neben Produktinformationen auch direkt mit dem Hersteller in Kontakt treten, erhalten von Multimedia Content um den Kunden zu weiteren Käufen zu animieren, Aufbau von persönlichen Kundenbeziehungen
+das Portemonnaie wird mit einem Bluetooth Modul un d einem Lautsprecher ausgestattet und gibt Alarm, wenn sich das Handy und Portemonnaie zu weit voneinander entfernen (Schutz vor ungewolltem Vergessen)
+ein passiver Sensor kann den Grad an Feuchtigkeit messen und überwachen, er benötigt keine Batterie
+der Service-Roboter kann vollautomatisierte Inventur- und Lokalisierungsprozesse im Lager des Produzenten/Händlers ausführen, Optimierung der Prozesse und Transparenz über die Wertschöpfungskette in Echtzeit
+ein tragbarer Sensor misst die Gehirnströme während des Autofahrens und gibt Alarm, sobald es Anzeichen für Müdigkeit des Fahrers gibt.
+der NFC Sensor sammelt daten über den Status des Produktes (Temperatur, Ablaufdatum, Öffnung der Flasche etc.), der Kunde erhält Informationen über Produkt und Herstellung
+es soll ein tragbarer NFC Sensor, der Fettleibigkeit und Diabetes erkennt, entwickelt werden, Überwachung von Behandlungsverläufen und Medikamenteneinnahme der Patienten, Kommunikation mit dem Smartphone
+ein RFID System überwacht die Position vom Neugeborenen in Echtzeit, wenn das Baby aus dem Bett genommen wird, ohne das System zu deaktivieren, wird ein Alarm ausgelöst, dient zur Vermeidung Diebstahl von Neugeborenen
+ein tragbarer Sensor misst die Hertzfrequenz zur Authentifizierung des Mitarbeiters anstelle der Nutzung von Passwörtern
+jeder Autobesitzer bekommt eine E-tag Card, die hinter der Frontscheibe platziert wird  und eine R-Tag Card am Kennzeichen,  auf Autobahnen werden die gefahrenen Kilometer erfasst und abgerechnet, ein Anhalten ist nicht mehr notwendig
+in CFK Großserienbauteile können spezielle RFID Tags eingebaut werden, um diese über die gesamte Supply Chain zu lokalisieren, eindeutig zu identifizieren und verfolgen
+RFID und Bluetooth Funktion sind in einem Reader in Stiftform kombiniert integriert; er kann zusätzlich als Eingabegerät für Touch-Bildschirme genutzt werden, gleichzeitiges Schreib-Lese-Gerät
+dieses Pilotprojekt beschäftigt sich (1) mit der Entwicklung eines NFC Moduls, das einen direkten Zugriff auf eine Maschine über ein mobiles Endgerät ermöglicht und (2) mit dem Temperatur-Monitoring medizinischer Produkte via NFC während des Transportes in Mehrweganwendungen
+mobiles Motion Tablet, dass zu Einsätzen mitgenommen wird und eine schnelle Notizenaufnahme sowie Datenübertragung und Unfallerfassung inkl. Bilder ermöglicht, die Berichtsbearbeitung wird beschleunigt
+ein sogenanntes Tag and beacon System stattet Abfalleimer an Kreuzungen und Fahrradfahrer  mit einem RFID Tag aus; sobald die Fahrradfahrer an einem dieser Mülleimer vorbeifahren, signalisiert ein LED Display die aktuelle Position des Fahrradfahrers für den Autofahrer; Senken von (tödlichen) Fahrradunfällen
+Bienen sollen mit miniaturisierten RFID Tags ausgestattet werden, um deren mysteriöses Sterben aufzuklären
+mit dem MEPS Intelliguard Kit and Tray Management System werden medizinische Geräte und Pharmazeutika mit Tags ausgestattet, die das medizinische Personal bei OP's, Medikamentenverabreichung unterstützen sollen und z.B. die richtige Dosis angeben, darüber hinaus kann der Zugriff auf Medikamente durch autorisiertes Personal sicher gestellt werden
+Tiere und landwirtschaftliche Maschinen sollen mit RFID Tags ausgestattet und untereinander verknüpft werden, um dem Farmer mitzuteilen, was gerade vorgeht bzw. wo sich Tiere oder Maschinen befinden,
+Lehrer sollen mit RFID lokalisiert und überwacht werden, ob sie tatsächlich anwensend sind
+ein batterieloser RFID Tag kann explosive Stoffe identifzieren sobald er in deren Nähe kommt und dann ein entsprechendes Alarmsignal aussendet; er kann z.B. an die Außenseite von Seecontainern angebracht werden; erhöht die Sicherheit der Fracht und des Transportes
+ein implantierter RFID Tag kann jederzeit die Position eines Haustieres erfassen und an den Besitzer weitergebe, kann im Fall dass das Tier verloren geht, helfen es wieder zu finden
+Handtücher des Fitnessstudios werden mit einem RFID Tag ausgestattet und geben im Fall des "aus Versehen" in die Tasche gesteckt ein Signal beim Verlassen der Studioräumlichkeiten
+Müllfahrzeuge sind mit RFID Tags ausgestattet, sodass beim Ankommen an der Mülldeponie ein Signal erscheint, die Fahrzeuge müssen gewogen werden und es wird dokumentiert, welcher Müll wann angekommen ist, die gesamte Prozesskette kann durch RFID beschleunigt werden
+ein neuartiges Parkplatzsystem für Fahrräder kann die Gefahr von Diebstählen minimieren, die Fahrradbox kann nur mit einer RFID Karte (beinhaltet einen Code) geöffnet werden, mit einer App kann der Besitzer den Zustand der Box überwachen, bezahlt wird online mit Kreditkarte
+mithilfe von NFC am Sitzplatz können Gäste z.B. Essensbestellungen aufgeben
+der RFID Transponder wurde zusätzlich mit weiteren Sensoren ausgestattet, beispielsweise kann er für Sessellifte oder Kabinenbahnen eingesetzt werden; besonders mobile Teile, die über keine iegene konstante Energieversorgung verfügen, können mit diesem Modul umfassend überwacht werden
+der bisher kleinste IC (0,02mm; 20 microns) des Unternehmens soll in Papier oder Verpackungsmaterial eingebettet werden, um so eine Vielzahl an Anwendungsmöglichkeiten zu generieren
+ein NFC Terminal in den Filialen von Carrefour soll den Einkauf von Kunden erleichtern, durch Routing im Laden; gleichzeitig werden automatisiert Treuepunkte via NFC auf das Smartphone übermittelt, die der Kunde später dann einlösen kann
+Adidas möchte zuknftig NFC Technik in Sportkleidung und Sportschuhe integrieren, um deren Verwendung zu verfolgen, sowie zusätzliche Team Informationen aufzuzeichnen wie z.B. die Performance während eines Spiels; außerdem möchte Adidas die Möglichkeit geben, einen direkten Kontakt zwischen Hersteller und Kunde herzustellen (schon während der Kaufphase für zusätzliche Informationen und in der Nachkaufphase für bestimmte Services)
+die Körperpflegebürste gibt automatisch ein Signal, sobald der Bürstenkopf ausgetauscht werden muss (es wird verfolgt, wie oft die Bürste benutzt wurde); das besondere: das Sysetm muss abgeschlossen sein, um nicht mit Wasser in Kontakt zu kommen
+jeder LKW ist mit einem GeLo Beacon ausgestattet, der automatisch den Truck bei Ankunft erfasst und wiegt; über eine Webplattform erhält der Disponent die Informationen über Ankunft und Gewicht des LKW und kann diesen direkt zum richtigen Beladeort schicken, über mobile Terminals werden weitere Daten zum Produkt und Menge des zu ladenen Gutes übermittelt; mithilfe der Beacons werden Fehler über Bestellmengen und Produktarten reduziert, der Lade- und Wiegevorgang auf 15 Minuten reduziert; mehr Transparenz über den gesamten Prozess
+eine App für die Google Glass für  ganzheitlich gelähmten Menschen kann diese Unterstützen  ihren Rollstuhlmit Nickbewegungen oder Kopfneigung zu steuern, per Bluetooth werden die Steuerkommandos an einen Adapter übertragen, der an den externen Steuerport gängiger Rollstuhlsysteme angeschlossen werden kann
+die Parkkleber für Parkbezirke sollen durch elektronische Parkpickerl ersetzt werden, diese müssen an der rechten oberen Ecke der Windschutzscheibe angebracht werden, auf dem Chip ist nur eine Identifikationsnummer gespeichert (Autokennzeichen und Laufzeit)
+ein RFID Transponder wird in den Kopf des Kennzeichnungsbinders integriert, um eine eindeutige Produktkennzeichnung zu erreichen -->Auslesen der Informationen auch bei Verschmutzung gewährleistet
+auf dem neuen RFID Transponder ist eine Speicherkapazität von vier KB möglich -->Speicherung größerer Datenmengen sowie schneller Zugriff; Besonders geeignet für dezentrale Strukturen (Produktionssteuerung, Asset Management, Intralogistik); Reichweite von bis zu 3m; die FRAM-Speichertechnik soll eine unbegrenzte Anzahl an Schreibzyklen gestatten -->Dauerhafte Kennzeichnung von Produkten
+ein Sensorchip in der Socke zeichnet die Anzahl der Schritte, den Bewegungsablauf, Schrittgeschwindigkeit, Kalorienverbrauch uvm. Auf, um dann via App den Besitzer zu Informieren seine Bewegungen zu korrigieren
+mit der Kombination aus RFID und NFC kann der Registrierungsprozess für Bevollmächtigte erheblich beschleunigt werden; Check-in und -out wird mit dem Smartphone durchgeführt, auf dem Ausweis, Status und Authentifikation hinterlegt sind; für alle Meeting und Event Bereiche einsetzbar
+über den EMS Sign Post Magnet, der sich am Kühlschrank in privaten Haushalten befindet, können Rettungskräfte mit dem Smartphone wichtige Informationen über den Patienten abrufen (z.B. Allergien, Medikamente, Alter,…)
+die Bezahlung kann ohne online real-time communication durchgeführt werden, sie erfolgt mit Chip und Pin
+der dreistellige Sicherheitscode auf der Rückseite von Kreditkarten wird durch einen Mini-Screen ersetzt, der einen Code periodisch automatisch neu generiert; neuartige Form der Sicherheit für Online Transaktionen; erhöhte Transparenz für Kartenbesitzer und Handel; der standardisierte Kaufprozess selbst wird nicht verändert
+in öffentlichen Verkehrsmitteln werden Bluetooth Beacons installiert, die Werbebotschaften an Smartphones senden; Verbinden von Kunden mit Handel
+neuartiger passiver NFC Chip mit  optimiertem Energiemanagement, er benötigt keine externe Energiequelle; Einsatzmöglichkeiten vor allem in industriellen, kundenbezogenen Bereichen oder für Gaming-Equipment
+über einen OBD Connector kann sich das Auto per Bluetooth mit dem Smartphone verbinden; Auslesen von Fehlerspeicher, Informatioen zu Kraftstoffverbrauch etc.; mit einer App (diese enthält etwa 20 weitere Apps von Drittentwicklern) können beispielsweise E-Mails versendet werden, Heizungssteuerung per Nest Thermostat wenn der Fahrer nach Hause kommt
+Banknoten mit RFID Chip ausgestattet, automatische Registrierung beim Ein-/Auszahlen; keine Informationen wem das Geld ausgezahlt wurde (Anonymität); im System kann gemeldet werden ob Scheine gestohlen oder geraubt wurden -->werden am nächsten Terminal unbrauchbar gemacht
+neuartiger Tag mit 4KB Fram Arbeitsspeicher, Resistenz gegen Gamma-Strahlung, spezieller Einsatz bei der Verfolgung von Abfallbehältern und Ausrüstung in Kernkraftwerken, sowie Gesundheitswegen, Luftfahrtindustrie
+speziell für Krankenhäuser: RFID (mit akustischer und optischer Alarm) anstatt Farbkennzeichnung von Zubehörteilen zur Vertauschungssicherheit, Kontrolle von Anschlüssen beispielweise Beatmungsschläuchen; automatische Kompatibilitätsprüfung
+ein NFC Label mit speziellen Klebstoffen, das für die Verklebung auf Trinkgläsern, Flaschen und Krügen  aller Art geeignet ist; der Hersteller kann in Dialog mit dem Kunden treten; Zusatz/Hintergrundinformationen/Videos…; das Label hält bis zu 60 Süülgänge bei einer Temperatur von 80°C aus; Originalitätsnachweis
+gedruckte Antenne mit Tinte aus Graphene, geeignet für die Massenproduktion, Antenne ist flexibel/umweltfreundlich/preisgünstig in der Herstellung, speziell für low-cost RFID Anwendungen
+tägliche Inspektion der LKW mit Smartphone/Tablet und NFC Tag; Reporting von Schäden, Rechtzeitige Wartung/Reparatur, bessere Fahrzeuginstandhaltung
+Ganzmetalltransponder mit Edelstahlgehäuse; identifiziert unter Hochdruck bis 100bar, bei hohen Temperaturen bis 250°C; für Lebensmittelindustrie/Bauwirtschaft/Zementwerk/Aluminiumfertigung; hält aggressiven Reinigungsmiteln, Einflüssen von Öl/Lauge/Korrosion/Schlag/Abrieb stand
+Ausstattung aller Fahrzeugnummernschilder mit RFID Tags; werden mit einer Kamera an Ampeln ausgelesen; entsprechende Steuerung des Verkehrs, um Staus zu umgehen und viel befahrene Strecken zu entlasten
+automatisierte Wartung, Instandhaltung und Service in Echtzeit von Anlagen/Straßenlaternen/Hydranten/…; eindeutige Identifikation der zu wartenden Objekte; für Anwendungen im Außenbereich entwickelt (Witterungsbeständigkeit, Langlebigkeit, Resistenz ggü. Temperaturunterschieden und Chemikalien
+RFID Karte mit zwei verschiedenen Frequenzen; Einsatz für die Abwicklung elektronischer Mautgebühren oder öffentlichen Verkehr; Zugang zu Bus/Bahn/U-Bahn; Scheckkartenformat; mit der mobile App kann der Bezahlvorgang gesteuert und kontrolliert werden
+eindeutige Identifikation von Babys im Krankenhaus; drahtlos; Informationen für das Personal für die richtige Behandlung/Pflege; reduziertes Risiko einer Babyverwechslung; das Baby bekommt ein entsprechendes Armband; Software für automatisiertes Reporting
+kleines Ausweislesegerät in USB Stick Form; ermöglicht flexibles Identifizieren, fehlerfreie Identfikation von Personen um Zugang zu bestimmten Bereichen zu erhalten; Eingabe von Passwörtern oder User Namen entfällt; Verbindung mit Tablets,PCs oder anderer Hardware
+dehnbare Batterie; speziell für flexible Geräte entwickelt (SmartWatch, Smartes Armband; neuartige Zusammenstellung der Batteriezellenanordnung; allerdings nur geringe Kapazität
+gedrucktes NFC Etikett für hochwertige Weine; Qualitätssiegel und sicherstellung; Identfizieren mit dem Smartphone; für Endkunden und in  der Supply Chain
+NFC Funktion des Smartphones soll zukünftig für die Überprüfung von Blutzucker verwendet werden; Fokus auf schmerzfreier Anwendung; speziell für Wearables
+sämtliche bewegliche Vermögensgegenstände werden mit RFID versehen; einfachere Inventurplanung und -steuerung; Erfassung aller buchungspflichtigen Güter; webbasiertes Invetarverwaltungssystem; mehr Transparenz
+Tags speziell für die Kryokonservierung (Aufbewahren von Zellen/Gewerbe durch Einfrieren in flüssigem Stickstoff); Resistenz bis zu -196°C; leichtere Identifizierung und Nachverfolgung von (Langzeit)Proben
+Installation von 600 BLE beacons in 28 Hypermärkten; personalisierte Werbung und Angebote direkt gesendet an die Smartphones der Kunden oder an Samsung Tablets die am Einkaufswagen befestigt sind; unterstütze Navigation von sehbeeinträchtiger Personen; sammeln statistischer Daten über das Lauf- und Kaufverhalten der Kunden
+Google hat ein neues offenes Format/Protokoll für BLE Beacons entwickelt, das sowohl mit Android als auch iOS Geräten kompatibel ist; die Beacon ID verändert sich regelmäßig, sodass ein unautorisierter Zugriff verhindert werden soll; zusätzliche Programmierschnittstelle (API) für Apps die auf Beacon Technologie basieren; an den Haltestellen des ÖPNV sollen Informationen über Abfahrtspläne in Echtzeit übermittelt werden; Einsatz des neuen Protokolls leicht in andere Szenarien übertragbar; Fokus auf Sicherheit und Privatsphäre
+in die Kleidung von Designern integrierte NFC/BLE Technologie; neuartiges Kundenerlebnis der Fashion Week; Informationen über die vorgestellte Kleidung und weitere Stücke noch in Bearbeitung; mobile Payment
+NFC Chips werden bei der Herstellung in das Garn eingewebt; Einsatzgebiete: Handel, Produktion, Lagerhaltung; sind gegenüber Wasch- und Trocknungsvorgängen resistent; 0,5mm-1mm; in groß angelegter Produktion kosten die Chips ein paar Pence; Chips auf kurze Reichweiter auslesbar; höhere Sicherheit gegenüber Diebstahl von Kleidung; in Kombination mit Smarten Waschmaschinen könnte eine Warnung bei falscher Zuordnung des Waschprogramms erklingen
+Dongle von Tomtom, der mittels Bluetooth Daten über den Fahrstil auswertet; z.B. Beschleunigungs- und Bremsmanöver, Kurvenfahrten und Umdrehungszahlen; dazugehörige AppCurver sammelt die Daten; können auf Wunsch auf dem Display on Board angezeigt werden; App ist sowohl für iOS oder Android kompatibel
+in einem Armband ist ein neuer Arduino Chip integriert, der  auf Knopfdruck ein Mesh-Netzwerk via Bluetooth herstellt; Verhalten wird üer eine Smartphone App gesteuert, die für iOS und Adroid bereitstehen soll; kann auf neue Nachrichten hinweisen oder aufleuchten, wenn Freunde in der Nähe sind; zukünftig erweiterbare Funktionen und selbstprogrammierte Erweiterungen
+passiver UHF RFID Tag; jeder Schüler erhält einen Tag; mit diesem kann in der Kantine bezahlt werden; ersetzt Essensstempelkarte
+zwei neuartige Verschlüsselungs-Algorithmen, um Datenübertragung von RFID sicherer zu estalten; benötigen nur geringe Energiemengen für die Verschlüsselung; sowohl für RFID als auch NFC Anwendungen jeglicher Art geeignet
+ein Bluetooth HF RFID reader kann Barcodes auslesen; soll speziell die Gesundheitsbranche unterstützen; Nachverfolgen/Lokalisieren und Datenschutz
+flexibles RFID System, das mehrere RFID Ports aufweist; kann drei verschiedene Frequenzen auslesen; kann sich mit allen gängigen Kontrollsystemen verbinden; für industrielle Einsätze entwickelt
+Einsatz von RFID um künstliche Befruchtung zu verfolgen, der Tag ist in den Lagerungsbehältern und in der Patientenkarte integriert, sodass eine Verwechslung bei der Zuordnung unterbunden werden soll; Grund war das Wachstum des Unternehmens, sodass eine 100% Fehlerfreiheit nicht mehr sicher gestellt werden konnte
+Android App für den uTrust Sense NFC RFID Tag, der die Temperatur überwachen soll; Auslesen der aufgezeichneten Daten; passiver Sensor der zusätzlich durch eine Batterie unterstütz wird; kann am Smartphone oder Tablet ausgelesen werden; speziell für Lebensmittelüberwachung interessant; innovativ ist die Kombination dass der Tag sowohl über NFC als auch RFID ausgelesen werden kann
+spezielles EPC Label für die Nachverfolgung von Wein und Kosmetik; im Deckel; Vorteil für folienverpackte Produkte da besseres Auslesen möglich ist
+Daten über den Spielverlauf und die Spielerperformance; Informationen zu Distanz und Wegverläufen; soll später auch für einen zusätzlichen Blickwinkel beim Zuschauer genutzt werden; Steigerung von Spielperformance
+ein Katzenspielzeug mit RFID Tag, soll Bewegung und natürliches Verhalten der Katze fördern
+Bluetooth in portabler Lampe integriert; kann mit dem Smartphone gesteuert werden; maximale Reichweite sind 30 Fuß
+klappbares Fahrrad; mit Beacon Technologie ausgestattet; Verbindung zu Smartphone/Wearable/Tablet zur Routenplanung; Erstellt automatisch Nutzungsstatistiken z.B. Batteriestand; beim Vorbeifahren an Geschäften werden Meldungen von Geschäften übermittelt und auf das Smartphone übertragen
+on demand Druck von NFC fähigen Etiketten; speziell für Chemikalien und Pharmazeutika, Track&Trace ist gesetztlich vorgeschrieben aufgrund gefährlicher Zusammensetzung; Informationen zur Lagerung und Verabreichung gespeichert
+elektronisches Etikett mit Bildschirm; zur Erhaltung des Bilds (Etikettaufschrift) wird kein Strom benötigt; NFC fähig: es können Informationen des Etiketts auf das Smartphone übertragen werden; ersetzt manuell geführte Listen zur Dokumentation/Protokollierung; kann auch in der Montage eingesetzt werden ->Anzeige von Informationen über wechselnde Arbeitsschritte
+RFID Tag im Mautetikett integriert; zur Verkehrsüberwachung; Vermeidung von Autodiebstahl, da ein gestohlenes Fahrzeug Warnung an die Polizei oder die Verkehrsbehörde übermittelt; phasenweise Einführung
+Bezahlt kann auch per Gesichtserkennung mit Selfie werden; alternativ zum Fingerprint; soll nach erfolgreicher Testphase im online shopping eingesetzt werden
+Kissco, eine end-to-end mobile MarketingPlattform, für mobile Bezahlservices mit NFC; besonders für online Käufe gedacht; kann auch bei teilnehmenden Einzelhändlern eingesetzt werden; auf der Plattform werden alle Beteiligten integriert; verfügbar mit Wi-Fi und mit mobilem Internet; zum Bezahlen kann also entweder ultrasound oder NFC verwendet werden
+kombiniertes NFC-/Smartcard Lesegerät; an einem Gerät können parallel schnelle, kontaktlose Anmeldungen mit RFID und NFC realisiert werden; ist mit allen gängigen NFC Frequenzen kompatibel ->höhere Flexibilität für Nutzer
+Vernetzung von Mitarbeitern, Teilen und Maschinen in der Produktion; Bereitstellen von notwendigen Informationen für die Produktion; jede Arbeitsstation ist mit einem Bluetooth Empfänger und einem RFID Lesegerät ausgestattet; jeder Mitarbeiter trägt einen batteriebetriebenen Bluetooth beacon mit sich; der Beacon ist in die ID Karte integriert; auf dem Beacon sind Zugangsberechtigungen, benötigte Informationen für den Arbeitsschritt, Erfahrung des Mitarbeiters und die jeweilige Sprache des Mitarbeiters hinterlegt; die Arbeitsstation erkennt zusätzlich über den RFID Reader, um welches Produktionsstück es sich handelt und wie es bearbeitet werden soll
+Smartphones und Tablets mit aktiviertem WiFi oder Bluetooth werden gezählt um so Wartezeiten an den Terminals zu verkürzen; Passagiere werden zur jeweils nächsten kürzesten Schlange gelotst; die Informationen werden über 13 Displays angezeigt; das System funktioniert mit Beacon Technologie
+ein RFID-Tag eingebettet in einer Visitenkarte aus Holz; enthält Kontaktdaten oder kann als Zugangskarte verwendet werden; in der NFC Ausführung kann auch mit dem Smartphone ausgelsen werden und verschiedenen Aktionen z.B.einen Anruf starten/SMS senden/Webseite aufrufen; die Hülle ist aus recyceltem Holzmaterial
+einrollbares Bluetooth-Keyboard; soll das Schreiben auf Smartphones und Tablets erleichtern; kann auch für industrielle Tablets verwendet werden
+Kickstarter Projekt; Tür-Schließsystem, das über Bluetooth/RF/NFC funktioniert; als Karte oder Ring gestaltet; einfache Installation an jeder beliebigen Tür; Batteriedauer von mehr als 1 Jahr; man kann einem Freund eine Einladung senden, der dann für eine bestimmte Tür Zutritt erhält
+mit RFID sollen Kinder mit Down Syndrom unterstützt werden, Lesen zu lernen; Spielzeug mit RFID ausgestattet; wird ein Spielzeug in die Nähe vom Reader gebracht, wird auf einem Display das Wort angezeigt; ein Computer zeichnet den Lernfortschritt auf
+RTLS Lösung für Middleware Unternehmen; zum Auslesen passiver UHF RFID Tags; RTLS;   dreidimensionale Positionsbestimmung; Antenne, die in verschiedene Richtungen gleichzeitig übermitteln kann
+RFID-based real-time location system (RTLS); Analyse der Spielerperformance während des Trainings; Ziel: bessere Leistung durch gezieltes und individuelles Training; Aufnahme von Bewegungen, Herzfrequenz, Puls, …; Daten werden direkt an den Trainer gesendet
+Piotprojekt; Tracking von in- und ausländischen Güterzügen; Grundlage für Optimierungen in der Organisationsplanung da Echtzeitdaten über die Position der Güterzüge; Basis ist ein autonomes Netz an UHF-Readern; die Reader sind individuell vernetzt und mit dem Backbone des Netzwerkes verbunden; Ziel wäre es 4000 Waggons zu taggen
+Watchdogs: Ortungsboxen kleinster Bauart; zur Ortung von Objekten; haben eine Dauer von bis zu 15 Jahren; aktive RFID; Ortung per Kreuzpeilung auf wenige Zentimeter genau; Kombination von GPS/GSM und aktiver RFID; zahlreiche online konfigurierbare Alarmeinstellungen möglich
+neuer Handheld RFID Reader, der zugleich ein DUAL-Sim Smartphone mit Android Betriebssystem ist; kann Barcode und RFID für den HF und NFC Frequenzbereich auslesen; Zugriff auf die Daten in Echtzeit möglich
+Inventarisierung und Nachverfolgung von Labor Liquid-Handling-Handgeräten; erleichtert Verwaltung der regelmäßigen Messmittelüberwachung; Pipetten verfügen ber integrierten RFID-Tag
+extrem kleines RFID UHF Label für Metalluntergründe; speziell für Smart Factory Anwendungen konzipiert (Material zu Maschine); Lesereichweite bis 1m;
+spezielle RFID Lösung für die Logistik von Blutbeuteln; RFID Tags müssen sowohl die Tiefkühltemperaturen als auch das Zentrifugieren überstehen; Einweglösung
+neuartiger RFID Reader, der für verschiedene Frequenzen im HF Bereich geeignet ist; innovativ ist der Reader zwei ISO Normen erfüllt, sodass nur noch ein Gerät benötigt wird, um die Tags auszulesen; zudem wird die Verschlüsselung des Speicherbereich möglich
+mit der smart-Cloud können zentral über einen Browser Marketingkampagnen gesteuert werden; Darstellung zielgruppenspezifischer sowie tagesaktueller Inhalte möglich; Browser kann ohne Programmierkenntnisse verwaltet werden; Inhalt kann auch im Browser des Smartphones geladen werden
