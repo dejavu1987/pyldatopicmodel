@@ -5,6 +5,8 @@ from collections import defaultdict
 from pprint import pprint  # pretty-printer
 import string
 import pyLDAvis
+import pyLDAvis.gensim
+
 
 stoplist = set(
     'dann will gut darf seinem dank nur allem uns ihren ihrem zwei drei seit seiner man mio euro neuen also war geht etwa gibt mehrere andere zf zwischen hat beim möglich ermöglicht richtige keine mehr alle hohen diesen kein noch neue nimmt diesem werden so misst usw zb um etc welches per eingehende diese zusätzlich aber als am an auch auf aus bei bin bis bist da dadurch daher darum das daß dass dein deine dem den der des dessen deshalb die dies dieser dieses doch dort du durch ein eine einem einen einer eines er es euer eure für hatte hatten hattest hattet hier	hinter ich ihr ihre im in ist ja jede jedem jeden jeder jedes jener jenes jetzt kann kannst können könnt machen mein meine mit muß mußt musst müssen müßt nach nachdem nein nicht nun oder seid sein seine sich sie sind soll sollen sollst sollt sonst soweit sowie und unser	unsere unter vom von vor wann warum was weiter weitere wenn wer werde werden werdet weshalb wie wieder wieso wir wird wirst wo woher wohin zu zum zur über'.split())
@@ -62,9 +64,13 @@ preprocessdocuments()
 dictionary = corpora.Dictionary.load('/tmp/trends.dict')
 corpus = corpora.MmCorpus('/tmp/trends.mm')
 tfidf = models.TfidfModel(corpus)
-model = ldamodel.LdaModel(corpus, id2word=dictionary, num_topics=3)
+model = ldamodel.LdaModel(corpus, id2word=dictionary, num_topics=20)
 print('Topics: ')
 print(model.print_topics(3, 5))
+
+vis_data = pyLDAvis.gensim.prepare(model, corpus, dictionary)
+pyLDAvis.save_html(vis_data, 'e.html')
+
 print('Test: ')
 print(model[tfidf[dictionary.doc2bow(['smartes', 'armband', 'fitnessarmband', 'dienen', 'sms', 'emails', 'anzeigen'])]])
 print(model[tfidf[dictionary.doc2bow(['verfolgen', 'produktion', 'sicherstellen', 'richtigen', 'kunden', 'kunde', 'tag'])]])
